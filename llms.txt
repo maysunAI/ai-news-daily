@@ -4,7 +4,7 @@
 > original-language tags, and a transparent 0-100 importance score. Summaries are
 > written in Chinese and machine-translated to English; both languages are kept.
 
-Last updated: 2026-09-23
+Last updated: 2026-09-24
 Web version: https://ainews.maysuns.uk/digest.html
 Author: https://maysuns.uk
 Topics: AI news, LLMs, generative AI, open source, AI policy, research
@@ -12,6 +12,7 @@ Topics: AI news, LLMs, generative AI, open source, AI policy, research
 ## Contents
 
 - [README](README.md): project overview + latest edition + scoring rules
+- [2026-09-24](archive/2026-09-24.md): AI news archive for that day
 - [2026-09-23](archive/2026-09-23.md): AI news archive for that day
 - [2026-09-22](archive/2026-09-22.md): AI news archive for that day
 - [2026-09-21](archive/2026-09-21.md): AI news archive for that day
