@@ -15,89 +15,117 @@ _（中文说明：每天自动整理 AI 领域的最新发展，每条附一手
 
 ---
 
-## Latest (2026-10-13)
+## Latest (2026-10-14)
 
-> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-10-13T18:01:30.042Z. 6 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
+> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-10-14T18:01:24.565Z. 8 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
 
-### ⭐ [Can Google's new model really catch up to OpenAI and Anthropic at the frontier?](https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html)
+### ⭐ [DeepSeek Nears $14 Billion Funding Round, Double Its Original Target](https://en.sedaily.com/international/2026/10/14/deepseek-nears-14-billion-funding-round-double-its-original)
 
-`score 60` · Model & product releases · 🇬🇧 English · via CNBC
+`score 60` · Company moves · 🇬🇧 English · via Seoul Economic Daily
 
-Google 推出新旗舰模型 Gemini 4 Argon，并先向网络安全合作伙伴小范围开放。报道还称 OpenAI 因一款即将发布的模型未达安全标准而放弃发布。
+据财经报道，DeepSeek 正接近完成约1000亿元人民币的第二轮融资，估值约5000亿元，规模是原定目标的两倍；资金将用于内蒙古数据中心（计划部署超16万颗华为昇腾芯片），并为预计年底前提交科创板上市申请铺路。
 
 <details><summary>中文摘要</summary>
 
-Google 推出新旗舰模型 Gemini 4 Argon，并先向网络安全合作伙伴小范围开放。报道还称 OpenAI 因一款即将发布的模型未达安全标准而放弃发布。
+据财经报道，DeepSeek 正接近完成约1000亿元人民币的第二轮融资，估值约5000亿元，规模是原定目标的两倍；资金将用于内蒙古数据中心（计划部署超16万颗华为昇腾芯片），并为预计年底前提交科创板上市申请铺路。
 
 </details>
 
 ---
 
-### [Anthropic can't reliably control its AI agents — it's cutting off its internal evals from the live internet instead](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead)
+### ⭐ [Nvidia commits $250 million to advance UK agentic safety and security research over the next five years](https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years)
 
-`score 45` · Policy & safety · 🇬🇧 English · via TechCrunch
+`score 60` · Policy & safety · 🇬🇧 English · via NVIDIA Newsroom
 
-Anthropic 表示在确定能可靠监控和控制 AI 智能体之前，已关闭所有内部评测对实时互联网的访问。这反映出前沿实验室对智能体行为失控风险的担忧。
+英伟达承诺未来五年向英国AI智能体安全研究捐赠价值2.5亿美元的算力资源（约每年5000万美元），用于智能体安全与保障方向的研究。
 
 <details><summary>中文摘要</summary>
 
-Anthropic 表示在确定能可靠监控和控制 AI 智能体之前，已关闭所有内部评测对实时互联网的访问。这反映出前沿实验室对智能体行为失控风险的担忧。
+英伟达承诺未来五年向英国AI智能体安全研究捐赠价值2.5亿美元的算力资源（约每年5000万美元），用于智能体安全与保障方向的研究。
 
 </details>
 
 ---
 
-### [OpenAI, Anthropic, Google have been in talks on AI safety for weeks](https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/)
+### ⭐ [Meet Apple HomeView: a new way to enjoy entertainment and manage the home](https://images.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/)
 
-`score 45` · Policy & safety · 🇬🇧 English · via TechCrunch
+`score 60` · Model & product releases · 🇬🇧 English · via Apple Newsroom
 
-OpenAI 政策负责人确认三家公司已就 AI 安全协调磋商数周，Anthropic 与 OpenAI 希望在实验室内部嵌入独立安全评估方，Meta、Google DeepMind 等尚未承诺。
+苹果发布售价299美元的智能家居显示屏 HomeView，搭载由 Apple Intelligence 驱动的重做版 Siri，已开放预购，11月13日上市。
 
 <details><summary>中文摘要</summary>
 
-OpenAI 政策负责人确认三家公司已就 AI 安全协调磋商数周，Anthropic 与 OpenAI 希望在实验室内部嵌入独立安全评估方，Meta、Google DeepMind 等尚未承诺。
+苹果发布售价299美元的智能家居显示屏 HomeView，搭载由 Apple Intelligence 驱动的重做版 Siri，已开放预购，11月13日上市。
 
 </details>
 
 ---
 
-### [Anthropic is giving startups a free year of Claude Team and $1,000 in credits](https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/)
+### ⭐ [China's Hesai launches spatial camera to boost AI-powered robotics adoption](https://www.reuters.com/technology/chinas-hesai-launches-spatial-camera-boost-ai-powered-robotics-adoption-2026-10-14/)
 
-`score 40` · Company moves · 🇬🇧 English · via TechCrunch
+`score 60` · Model & product releases · 🇬🇧 English · via Reuters
 
-Anthropic 扩大 Claude for Startups 计划，符合条件的初创公司可获一年免费 Claude Team（最多5个高级席位）和 1000 美元 API 额度。
+激光雷达厂商禾赛科技推出3D空间相机 Kosmo，帮助机器人开发者采集用于训练具身智能的物理世界数据。
 
 <details><summary>中文摘要</summary>
 
-Anthropic 扩大 Claude for Startups 计划，符合条件的初创公司可获一年免费 Claude Team（最多5个高级席位）和 1000 美元 API 额度。
+激光雷达厂商禾赛科技推出3D空间相机 Kosmo，帮助机器人开发者采集用于训练具身智能的物理世界数据。
 
 </details>
 
 ---
 
-### [Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports](https://kfgo.com/2026/10/11/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-wsj-reports/)
+### [Saudi national arrested for installing surreptitious audio recording device at OpenAI](https://www.justice.gov/usao-ndca/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai-san)
 
-`score 25` · Company moves · 🇬🇧 English · via KFGO (Reuters)
+`score 55` · Company moves · 🇬🇧 English · via U.S. Department of Justice
 
-据华尔街日报报道，亚马逊正洽谈以约70亿美元收购 AI 初创公司 Decart，该公司做推理优化软件栈、实时视频模型和世界模型。尚未达成正式协议，Decart 5月估值近40亿美元。
+美国联邦检察官起诉一名 OpenAI 工程师，指控其在公司高管会议室内暗藏录音设备；指控尚未经法庭证实。
 
 <details><summary>中文摘要</summary>
 
-据华尔街日报报道，亚马逊正洽谈以约70亿美元收购 AI 初创公司 Decart，该公司做推理优化软件栈、实时视频模型和世界模型。尚未达成正式协议，Decart 5月估值近40亿美元。
+美国联邦检察官起诉一名 OpenAI 工程师，指控其在公司高管会议室内暗藏录音设备；指控尚未经法庭证实。
 
 </details>
 
 ---
 
-### [NIST Launches AI Agent Standards Initiative to Promote Secure, Interoperable Autonomous Systems](https://babl.ai/nist-launches-ai-agent-standards-initiative-to-promote-secure-interoperable-autonomous-systems/)
+### [We're powering European scientific discovery with advanced AI compute and frontier models](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/)
 
-`score 20` · Protocols & interoperability · 🇬🇧 English · via BABL AI
+`score 55` · Company moves · 🇬🇧 English · via Google DeepMind Blog
 
-NIST 的 CAISI 于2026年2月启动 AI Agent 标准倡议，围绕行业主导标准、开源协议开发和智能体安全/身份研究三大支柱，并公开征集意见。
+Google DeepMind 与 Google Cloud 将通过欧盟 RAISE 计划，向最多200名欧洲研究人员提供先进模型访问权限和300万美元算力额度。
 
 <details><summary>中文摘要</summary>
 
-NIST 的 CAISI 于2026年2月启动 AI Agent 标准倡议，围绕行业主导标准、开源协议开发和智能体安全/身份研究三大支柱，并公开征集意见。
+Google DeepMind 与 Google Cloud 将通过欧盟 RAISE 计划，向最多200名欧洲研究人员提供先进模型访问权限和300万美元算力额度。
+
+</details>
+
+---
+
+### [Doctolib accelerates in healthcare AI with a new planned investment from Nvidia](https://about.doctolib.com/news/doctolib-accelerates-in-healthcare-ai-with-a-new-planned-investment-from-nvidia/)
+
+`score 55` · Company moves · 🇬🇧 English · via Doctolib
+
+英伟达计划对法国医疗科技公司 Doctolib 进行少数股权投资，以支持其医疗AI产品，金额与条款未披露。
+
+<details><summary>中文摘要</summary>
+
+英伟达计划对法国医疗科技公司 Doctolib 进行少数股权投资，以支持其医疗AI产品，金额与条款未披露。
+
+</details>
+
+---
+
+### [OpenAI and Anthropic tell British lawmakers to regulate them](https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us)
+
+`score 45` · Policy & safety · 🇬🇧 English · via Wired
+
+在英国议会听证会上，OpenAI 与 Anthropic 代表支持对AI安全设立具有法律约束力的要求，而 Google DeepMind 和 Meta 态度更为谨慎。
+
+<details><summary>中文摘要</summary>
+
+在英国议会听证会上，OpenAI 与 Anthropic 代表支持对AI安全设立具有法律约束力的要求，而 Google DeepMind 和 Meta 态度更为谨慎。
 
 </details>
 
@@ -118,6 +146,7 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 
 ## Archive (last 30 days)
 
+- [2026-10-14](archive/2026-10-14.md)
 - [2026-10-13](archive/2026-10-13.md)
 - [2026-10-12](archive/2026-10-12.md)
 - [2026-10-11](archive/2026-10-11.md)
@@ -147,7 +176,6 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 - [2026-09-17](archive/2026-09-17.md)
 - [2026-09-16](archive/2026-09-16.md)
 - [2026-09-15](archive/2026-09-15.md)
-- [2026-09-14](archive/2026-09-14.md)
 
 Full list in [`archive/`](archive/).
 
