@@ -15,89 +15,61 @@ _（中文说明：每天自动整理 AI 领域的最新发展，每条附一手
 
 ---
 
-## Latest (2026-10-18)
+## Latest (2026-10-19)
 
-> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-10-16T18:01:32.792Z. 6 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
+> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-10-19T18:01:25.902Z. 4 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
 
-### ⭐ [Google launches Gemini 4 Argon at $2/$10 per million tokens](https://aiweekly.co/alerts/google-launches-gemini-4-argon-at-210-per-million-tokens)
+### [Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption](https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html)
 
-`score 70` · Model & product releases · 🇬🇧 English · via AI Weekly（转引 Google 官方博客）
+`score 50` · Company moves · 🇬🇧 English · via CNBC
 
-According to AI Weekly, Google released a new generation of cutting-edge model Gemini 4 Argon on October 13. The API pricing is US$2 per million input tokens and US$10 per million output. This model is Google’s main product to catch up with the cutting-edge level of OpenAI and Anthropic.
+Anthropic announced on October 18 that, subject to shareholder approval, it will inject 5% of its shares into a new public welfare fund. The funds can be used to respond to the impact of AI on the labor market and will not be used for lobbying or political donations. The company is also preparing for an IPO with a valuation of approximately US$2 trillion, and formal documents are expected to be submitted within a few weeks.
 
 <details><summary>中文摘要</summary>
 
-据 AI Weekly 日报，Google 于10月13日发布新一代前沿模型 Gemini 4 Argon，API 定价为每百万输入 token 2 美元、输出 10 美元。该模型是 Google 追赶 OpenAI 与 Anthropic 前沿水平的主力产品。
+Anthropic 于10月18日宣布，经股东批准后将把5%的股份注入新设公益基金，资金可用于应对AI对劳动力市场的冲击，且不用于游说或政治捐赠；公司同时正筹备估值约2万亿美元的IPO，正式文件预计数周内提交。
 
 </details>
 
 ---
 
-### [EU AI Office Opens First AI Act Probes Into OpenAI, Anthropic](https://aiweekly.co/alerts/eu-ai-office-opens-first-ai-act-probes-into-openai-anthropic)
+### [Anthropic pledge to usher in new era of AI-infused philanthropy](https://www.axios.com/2026/10/19/silicon-valley-ai-philanthropy-anthropic-fund)
 
-`score 55` · Policy & safety · 🇬🇧 English · via AI Weekly
+`score 40` · Opinion & commentary · 🇬🇧 English · via Axios
 
-According to the headline of AI Weekly daily, the EU AI Office launched the first batch of "AI Act" investigations against OpenAI and Anthropic. This is the first action against cutting-edge model manufacturers after the bill entered the enforcement stage (only see the title, details are subject to official confirmation).
+Axios interprets Anthropic’s 5% shareholding charity fund commitment, believing that this will start a new model of Silicon Valley’s AI wealth returning to society, and is in contrast to Musk’s reverse move to use SpaceX shares to establish a children’s fund.
 
 <details><summary>中文摘要</summary>
 
-据 AI Weekly 日报标题，欧盟 AI 办公室针对 OpenAI 与 Anthropic 启动首批《AI 法案》调查，这是该法案进入执法阶段后针对前沿模型厂商的首批动作（仅见标题，细节待官方确认）。
+Axios 解读 Anthropic 的5%股份公益基金承诺，认为这将开启硅谷AI财富反哺社会的新模式，并与马斯克以SpaceX股份设立儿童基金的反向动作形成对照。
 
 </details>
 
 ---
 
-### [AI Chip Stocks Shed $1T This Week; SK Hynix, Samsung Fall ~10%](https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html)
+### [Replit makes OpenAI its default over Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/)
 
-`score 40` · Company moves · 🇬🇧 English · via CNBC
+`score 40` · Company moves · 🇬🇧 English · via TechCrunch
 
-CNBC reported that the combined market value of about 20 of the world's largest AI and semiconductor stocks evaporated by more than $1 trillion this week. SK Hynix fell more than 10% and Samsung fell about 8.7% in Seoul on Thursday. The market is worried about the direction of AI financing and interest rates.
+The CEO of the AI ​​programming platform Replit said that the company has switched the default model from Anthropic to OpenAI, partly due to cost; industry insiders dispute this statement, and there has been no sign that the cooperation between the two parties has changed.
 
 <details><summary>中文摘要</summary>
 
-CNBC 报道，本周约20只全球最大 AI 与半导体股票市值合计蒸发超1万亿美元，周四 SK 海力士在首尔一度下跌超10%、三星跌约8.7%，市场担忧 AI 融资与利率走向。
+AI编程平台 Replit 的CEO称公司已把默认模型从 Anthropic 切换为 OpenAI，部分原因是成本；业内人士对这一说法存在争议，此前并无任何迹象显示双方合作生变。
 
 </details>
 
 ---
 
-### [Eight State AGs Sue OpenAI Over ChatGPT Child Safety Claims](https://aiweekly.co/alerts/eight-state-ags-sue-openai-over-chatgpt-child-safety-claims)
+### [NVIDIA Expands Nemotron 3.5 With Super VL and Bolt](https://letsdatascience.com/news/nvidia-expands-nemotron-35-with-super-vl-and-bolt-ff81d36b)
 
-`score 30` · Policy & safety · 🇬🇧 English · via Bloomberg Law（经 AI Weekly 转引）
+`score 25` · Open-source projects · 🇬🇧 English · via Let's Data Science
 
-Eight state attorneys general filed a consumer protection lawsuit accusing OpenAI of promoting ChatGPT as safe for children under 13. This is a state-level centralized enforcement of the safety of minors in AI chat products in the United States.
-
-<details><summary>中文摘要</summary>
-
-八个州的总检察长提起消费者保护诉讼，指控 OpenAI 宣传 ChatGPT 对13岁以下儿童是安全的。这是美国州级对 AI 聊天产品未成年人安全问题的集中执法。
-
-</details>
-
----
-
-### [NVIDIA NXDirection drops prompt-injection attack rate to 0.1%](https://aiweekly.co/alerts/nvidia-nxdirection-drops-prompt-injection-attack-rate-to-01)
-
-`score 25` · Research & papers · 🇬🇧 English · via Nvidia（经 AI Weekly 转引）
-
-Nvidia researchers reported that its NXDirection method reduced the success rate of indirect hint injection from 38.1% to 0.1% on the BIPIA benchmark, at the expense of approximately two percentage points in normal task utility.
+NVIDIA released the open Nemotron 3.5 Super VL (120 billion parameters, 12 billion activations, million token contexts, an agent-oriented visual language model) and Bolt 74B-A9B on October 15. The smaller Bolt E4B is scheduled to be released on October 23; the third-party Artificial Analysis gave an intelligence index of 26.5, which failed to verify the 5x speed claimed by NVIDIA.
 
 <details><summary>中文摘要</summary>
 
-Nvidia 研究人员报告，其 NXDirection 方法在 BIPIA 基准上把间接提示注入的成功率从38.1%降到0.1%，代价是正常任务效用下降约两个百分点。
-
-</details>
-
----
-
-### [Anthropic: Small Open Models Months From IoT Self-Replication](https://aiweekly.co/alerts/anthropic-small-open-models-months-from-iot-self-replication)
-
-`score 25` · Policy & safety · 🇬🇧 English · via AI Weekly
-
-According to reports, Anthropic warned that small open source models may have the ability to replicate themselves among connected IoT devices within months; its experiments used ordinary hardware and small models, and it is not yet possible to fully automate all steps (only second-hand reports).
-
-<details><summary>中文摘要</summary>
-
-据报道，Anthropic 警告小型开源模型可能在数月内具备在联网物联网设备间自我复制的能力；其实验使用普通硬件和小模型，尚不能全自动完成全部步骤（仅见二手转述）。
+NVIDIA 于10月15日发布开放的 Nemotron 3.5 Super VL（1200亿参数、120亿激活、百万token上下文，面向智能体的视觉语言模型）与 Bolt 74B-A9B，另有更小的 Bolt E4B 定于10月23日发布；第三方 Artificial Analysis 给出智能指数26.5，未能验证NVIDIA宣称的5倍速度。
 
 </details>
 
@@ -118,6 +90,7 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 
 ## Archive (last 30 days)
 
+- [2026-10-19](archive/2026-10-19.md)
 - [2026-10-18](archive/2026-10-18.md)
 - [2026-10-17](archive/2026-10-17.md)
 - [2026-10-16](archive/2026-10-16.md)
@@ -147,7 +120,6 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 - [2026-09-22](archive/2026-09-22.md)
 - [2026-09-21](archive/2026-09-21.md)
 - [2026-09-20](archive/2026-09-20.md)
-- [2026-09-19](archive/2026-09-19.md)
 
 Full list in [`archive/`](archive/).
 
