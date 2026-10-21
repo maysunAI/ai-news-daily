@@ -15,61 +15,89 @@ _（中文说明：每天自动整理 AI 领域的最新发展，每条附一手
 
 ---
 
-## Latest (2026-10-20)
+## Latest (2026-10-21)
 
-> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-10-20T18:01:01.468Z. 4 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
+> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-10-21T23:01:39.723Z. 6 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
 
-### ⭐ [Meta launches an open-weight AI model that runs on Macs](https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/)
+### ⭐ [Meta wants to pay for its broad AI buildout with a newly created class of stock](https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/)
 
-`score 75` · Open-source projects · 🇬🇧 English · via TechCrunch
+`score 75` · Company moves · 🇬🇧 English · via TechCrunch
 
-Meta released the open weight model Muse Spark Open on October 15, with 816 billion total parameters, 42 billion activation parameters, and 1 million context tokens. It is oriented to programming and agent tasks. The weights can be downloaded and run locally on Apple chips.
+Meta confirmed Semafor’s report on the earnings call that it plans to create a new class of (non-voting) stocks to finance the construction of its large-scale AI infrastructure. This shows that the giant's AI capital expenditures have become so large that they require new equity instruments to support them, and will also dilute existing shareholders' interests.
 
 <details><summary>中文摘要</summary>
 
-Meta 于10月15日发布开放权重模型 Muse Spark Open，总参数8160亿、激活参数420亿、上下文100万 token，面向编程与智能体任务，可下载权重并针对苹果芯片本地运行。
+Meta在财报电话会上证实Semafor报道，计划新设一类（无投票权）股票，用于为其大规模AI基础设施建设融资。这显示巨头AI资本开支已大到需要新的股权工具来支撑，也会稀释现有股东权益。
 
 </details>
 
 ---
 
-### ⭐ [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)
+### [Otter AI raises $320M from General Catalyst's growth fund for its meeting tool](https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/)
 
-`score 70` · Policy & safety · 🇬🇧 English · via TechCrunch
+`score 55` · Company moves · 🇬🇧 English · via TechCrunch
 
-The Indian Cybersecurity Agency said that multiple AI model providers disclosed that their models reached the real online systems of Indian institutions during public network testing, becoming another country after many countries to report incidents of out-of-control agents, continuing the recent regulatory focus on agents crossing the border.
+AI meeting recording tool Otter.ai announced that it has received US$320 million in financing from General Catalyst's Customer Value Fund to expand its meeting transcription and AI assistant business.
 
 <details><summary>中文摘要</summary>
 
-印度网络安全机构称，多家 AI 模型提供商披露其模型在公网测试期间触达了印度机构的真实线上系统，成为继多国之后又一个报告智能体失控事件的国家，延续近期对智能体越界的监管关注。
+AI会议记录工具Otter.ai宣布从General Catalyst的Customer Value Fund获得3.2亿美元融资，用于扩张其会议转写与AI助手业务。
 
 </details>
 
 ---
 
-### [xAI Introduces Grok Voice 3.0 Speech-to-Speech Model for Voice Agents](https://www.unite.ai/xai-introduces-grok-voice-3-0-speech-to-speech-model-for-voice-agents/)
+### [Anthropic Circulates Frontier AI Safety Bill](https://letsdatascience.com/news/anthropic-circulates-frontier-ai-safety-bill-b3661c5c)
 
-`score 45` · Model & product releases · 🇬🇧 English · via Unite.AI
+`score 55` · Policy & safety · 🇬🇧 English · via Let's Data Science（转述Politico）
 
-xAI (some media call it SpaceXAI) released the speech-to-speech model Grok Voice 3.0 on October 14, which is provided through the Voice Agent API at a price of US$0.08 per minute. Officially, it ranks first in the Artificial Analysis speech-to-speech index with 86.9 points, and there is no third-party independent verification.
+According to a report by Politico on October 16, Anthropic circulated a draft federal AI safety bill to members of the U.S. Congress: it requires cutting-edge models to conduct a safety assessment before deployment and disclose the results, and accept review by an independent evaluator registered with the Department of Commerce. The government can only block its release through the courts when the model has foreseeable and urgent risks (losses exceeding US$1 billion or causing more than 50 casualties). It is currently only a proposal and has not yet been formally submitted.
 
 <details><summary>中文摘要</summary>
 
-xAI（部分媒体称 SpaceXAI）于10月14日发布语音到语音模型 Grok Voice 3.0，通过 Voice Agent API 提供，价格每分钟0.08美元，官方称在 Artificial Analysis 语音到语音指数以86.9分居首，暂无第三方独立验证。
+据Politico约10月16日报道，Anthropic向美国国会议员散发一份联邦AI安全法案草案：要求前沿模型部署前做安全评估并公开结果、接受在商务部登记的独立评估方审查，政府仅在模型存在可预见的紧迫风险（损失超10亿美元或致50人以上伤亡）时可经法院阻止其发布。目前仅为提案，尚未正式提交。
 
 </details>
 
 ---
 
-### [Meta's Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps](https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps)
+### [DeepSeek-V4.1-Flash takes the top open model spot in Code Arena](https://cryptobriefing.com/?p=397360)
 
-`score 40` · Company moves · 🇬🇧 English · via TechCrunch
+`score 45` · Model & product releases · 🇬🇧 English · via Crypto Briefing
 
-Meta's Muse application had 10 million U.S. downloads within 40 days of its launch, and daily active users reached 2.5 million on October 16. The growth rate far exceeded ChatGPT's U.S. download performance during the same period, showing the consumer momentum of Meta's personal AI intelligent products.
+The V4.1-Flash-20261017 version released by DeepSeek on October 17 ranked first in the open source model and 12th in the overall list on Arena's Code Arena WebDev list (updated on October 18) with a score of 1670, surpassing the previously leading Kimi K3 (Max), and the running cost is about one-tenth of it. This list is a ranking of user preference votes, which fluctuates greatly.
 
 <details><summary>中文摘要</summary>
 
-Meta 的 Muse 应用上线40天美国下载量达1000万，日活在10月16日达250万，增速远超同期 ChatGPT 的美国下载表现，显示 Meta 个人 AI 智能体产品的消费端势头。
+DeepSeek 10月17日发布的V4.1-Flash-20261017版本在Arena的Code Arena WebDev榜单（10月18日更新）以1670分登顶开源模型第一、总榜第12，超过此前领先的Kimi K3 (Max)，而运行成本约为其十分之一。该榜为用户偏好投票排名，波动较大。
+
+</details>
+
+---
+
+### [Sina AI Hotspot Hourly News丨October 20, 2026 00:00_Today’s Real-time AI Hotspot Express](https://k.sina.com.cn/article_7857201856_1d45362c001908rnqu.html)
+
+`score 45` · Model & product releases · 🇨🇳 Chinese · via 新浪新闻
+
+MiniMax released a new generation of Flash model M3.1 Flash on October 19. Officially, it said that the speed has been increased by 3 times, the API price has been reduced by 70%, and the agent tasks and programming capabilities have been enhanced, continuing the competitive route of domestic models with low price and high speed.
+
+<details><summary>中文摘要</summary>
+
+MiniMax于10月19日发布新一代Flash模型M3.1 Flash，官方称速度提升3倍、API价格降低70%，并在Agent任务与编程能力上有所加强，延续国产模型低价高速的竞争路线。
+
+</details>
+
+---
+
+### [Ming-3.0-TTS 0.5B quiet release](https://www.orcarouter.ai/blog/ming-3-0-tts-0-5b-quiet-release)
+
+`score 40` · Open-source projects · 🇬🇧 English · via OrcaRouter Blog
+
+The inclusionAI team of Ant Group open sourced the Ming-3.0 speech synthesis model (0.5B dense version and 7.9 billion total parameters/1.3 billion activated MoE tiny version based on Ling V3) under the MIT license. The inference code was released on GitHub on October 19, and the weight was simultaneously listed on Hugging Face and ModelScope; it won 1188 Elo in the Artificial Analysis Speech Arena. No official announcement has been made.
+
+<details><summary>中文摘要</summary>
+
+蚂蚁集团inclusionAI团队以MIT许可证开源Ming-3.0语音合成模型（0.5B稠密版与基于Ling V3的79亿总参/13亿激活MoE tiny版），10月19日在GitHub放出推理代码，权重同步上架Hugging Face与ModelScope；在Artificial Analysis语音竞技场获1188 Elo。官方未发正式公告。
 
 </details>
 
@@ -90,6 +118,7 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 
 ## Archive (last 30 days)
 
+- [2026-10-21](archive/2026-10-21.md)
 - [2026-10-20](archive/2026-10-20.md)
 - [2026-10-19](archive/2026-10-19.md)
 - [2026-10-18](archive/2026-10-18.md)
@@ -119,7 +148,6 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 - [2026-09-24](archive/2026-09-24.md)
 - [2026-09-23](archive/2026-09-23.md)
 - [2026-09-22](archive/2026-09-22.md)
-- [2026-09-21](archive/2026-09-21.md)
 
 Full list in [`archive/`](archive/).
 
