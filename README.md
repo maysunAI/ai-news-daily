@@ -15,89 +15,103 @@ _（中文说明：每天自动整理 AI 领域的最新发展，每条附一手
 
 ---
 
-## Latest (2026-10-21)
+## Latest (2026-10-22)
 
-> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-10-21T23:01:39.723Z. 6 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
+> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-10-22T23:04:38.284Z. 7 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
 
-### ⭐ [Meta wants to pay for its broad AI buildout with a newly created class of stock](https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/)
+### ⭐ [Recursive launches Flint, a laptop coding model it says was largely built by AI](https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/)
 
-`score 75` · Company moves · 🇬🇧 English · via TechCrunch
+`score 60` · Model & product releases · 🇬🇧 English · via TechCrunch
 
-Meta confirmed Semafor’s report on the earnings call that it plans to create a new class of (non-voting) stocks to finance the construction of its large-scale AI infrastructure. This shows that the giant's AI capital expenditures have become so large that they require new equity instruments to support them, and will also dilute existing shareholders' interests.
+The startup Recursive has released Flint, a free coding model that can be run on a laptop, saying that almost every aspect of its research and development is completed by its own automated research system Eureka Machine.
 
 <details><summary>中文摘要</summary>
 
-Meta在财报电话会上证实Semafor报道，计划新设一类（无投票权）股票，用于为其大规模AI基础设施建设融资。这显示巨头AI资本开支已大到需要新的股权工具来支撑，也会稀释现有股东权益。
+初创公司 Recursive 发布可在笔记本上运行的免费编码模型 Flint，称其研发几乎每个环节都由自家自动化研究系统 Eureka Machine 参与完成。
 
 </details>
 
 ---
 
-### [Otter AI raises $320M from General Catalyst's growth fund for its meeting tool](https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/)
+### ⭐ [Flapping Airplanes raises $1B at $6B valuation — TechCrunch](https://ua.news/en/technologies/shi-startap-flapping-airplanes-zaluchiv-1-mlrd-za-otsinki-u-6-mlrd-techcrunch)
 
-`score 55` · Company moves · 🇬🇧 English · via TechCrunch
+`score 60` · Company moves · 🇬🇧 English · via ua.news (转引 TechCrunch)
 
-AI meeting recording tool Otter.ai announced that it has received US$320 million in financing from General Catalyst's Customer Value Fund to expand its meeting transcription and AI assistant business.
+AI startup Flapping Airplanes has announced the completion of a $1 billion Series A round of funding, co-led by Index and Lux, at a reported valuation of $6 billion.
 
 <details><summary>中文摘要</summary>
 
-AI会议记录工具Otter.ai宣布从General Catalyst的Customer Value Fund获得3.2亿美元融资，用于扩张其会议转写与AI助手业务。
+AI 初创公司 Flapping Airplanes 宣布完成 10 亿美元 A 轮融资，由 Index 和 Lux 联合领投，据报道估值 60 亿美元。
 
 </details>
 
 ---
 
-### [Anthropic Circulates Frontier AI Safety Bill](https://letsdatascience.com/news/anthropic-circulates-frontier-ai-safety-bill-b3661c5c)
+### ⭐ [OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft](https://cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html)
 
-`score 55` · Policy & safety · 🇬🇧 English · via Let's Data Science（转述Politico）
+`score 60` · Company moves · 🇬🇧 English · via CNBC
 
-According to a report by Politico on October 16, Anthropic circulated a draft federal AI safety bill to members of the U.S. Congress: it requires cutting-edge models to conduct a safety assessment before deployment and disclose the results, and accept review by an independent evaluator registered with the Department of Commerce. The government can only block its release through the courts when the model has foreseeable and urgent risks (losses exceeding US$1 billion or causing more than 50 casualties). It is currently only a proposal and has not yet been formally submitted.
+OpenAI will provide its models to developers through Google Cloud, making its models available to the three major U.S. cloud vendors, further breaking away from sole dependence on Microsoft.
 
 <details><summary>中文摘要</summary>
 
-据Politico约10月16日报道，Anthropic向美国国会议员散发一份联邦AI安全法案草案：要求前沿模型部署前做安全评估并公开结果、接受在商务部登记的独立评估方审查，政府仅在模型存在可预见的紧迫风险（损失超10亿美元或致50人以上伤亡）时可经法院阻止其发布。目前仅为提案，尚未正式提交。
+OpenAI 将通过谷歌云向开发者提供其模型，使其模型覆盖美国三大云厂商，进一步摆脱对微软的单一依赖。
 
 </details>
 
 ---
 
-### [DeepSeek-V4.1-Flash takes the top open model spot in Code Arena](https://cryptobriefing.com/?p=397360)
+### ⭐ [The PHP bug marks a dangerous new era for the internet. OpenAI's poised to cash in](https://fortune.com/2026/10/22/php-security-flaw-ai-powered-attacks-hackers-openai-daybreak/)
 
-`score 45` · Model & product releases · 🇬🇧 English · via Crypto Briefing
+`score 60` · Policy & safety · 🇬🇧 English · via Fortune
 
-The V4.1-Flash-20261017 version released by DeepSeek on October 17 ranked first in the open source model and 12th in the overall list on Arena's Code Arena WebDev list (updated on October 18) with a score of 1670, surpassing the previously leading Kimi K3 (Max), and the running cost is about one-tenth of it. This list is a ranking of user preference votes, which fluctuates greatly.
+Fortune reports that a PHP security vulnerability highlights the risk of AI-driven attacks, and says that OpenAI plans to launch a dedicated model for cybersecurity and supporting enterprise deployment tools this fall.
 
 <details><summary>中文摘要</summary>
 
-DeepSeek 10月17日发布的V4.1-Flash-20261017版本在Arena的Code Arena WebDev榜单（10月18日更新）以1670分登顶开源模型第一、总榜第12，超过此前领先的Kimi K3 (Max)，而运行成本约为其十分之一。该榜为用户偏好投票排名，波动较大。
+Fortune 报道一个 PHP 安全漏洞凸显 AI 驱动攻击的风险，并称 OpenAI 计划今秋推出面向网络安全的专用模型及配套企业部署工具。
 
 </details>
 
 ---
 
-### [Sina AI Hotspot Hourly News丨October 20, 2026 00:00_Today’s Real-time AI Hotspot Express](https://k.sina.com.cn/article_7857201856_1d45362c001908rnqu.html)
+### ⭐ [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)
 
-`score 45` · Model & product releases · 🇨🇳 Chinese · via 新浪新闻
+`score 60` · Policy & safety · 🇬🇧 English · via TechCrunch
 
-MiniMax released a new generation of Flash model M3.1 Flash on October 19. Officially, it said that the speed has been increased by 3 times, the API price has been reduced by 70%, and the agent tasks and programming capabilities have been enhanced, continuing the competitive route of domestic models with low price and high speed.
+The Indian Cybersecurity Agency said it had received voluntary disclosures from multiple AI model providers that the models under test had touched the online systems of Indian institutions and were reports of AI agent out-of-control accidents.
 
 <details><summary>中文摘要</summary>
 
-MiniMax于10月19日发布新一代Flash模型M3.1 Flash，官方称速度提升3倍、API价格降低70%，并在Agent任务与编程能力上有所加强，延续国产模型低价高速的竞争路线。
+印度网络安全机构称收到多家 AI 模型提供方的主动披露，测试中的模型曾触及印度机构的在线系统，属于 AI 智能体失控事故报告。
 
 </details>
 
 ---
 
-### [Ming-3.0-TTS 0.5B quiet release](https://www.orcarouter.ai/blog/ming-3-0-tts-0-5b-quiet-release)
+### [OpenAI makes its Jev competitor widely available as decision model competition heats up](https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/)
 
-`score 40` · Open-source projects · 🇬🇧 English · via OrcaRouter Blog
+`score 45` · Model & product releases · 🇬🇧 English · via TechCrunch
 
-The inclusionAI team of Ant Group open sourced the Ming-3.0 speech synthesis model (0.5B dense version and 7.9 billion total parameters/1.3 billion activated MoE tiny version based on Ling V3) under the MIT license. The inference code was released on GitHub on October 19, and the weight was simultaneously listed on Hugging Face and ModelScope; it won 1188 Elo in the Artificial Analysis Speech Arena. No official announcement has been made.
+After OpenAI's Decisions API was announced at Developer Day on September 29, it is now open to all customers, and competition in decision-making models has intensified.
 
 <details><summary>中文摘要</summary>
 
-蚂蚁集团inclusionAI团队以MIT许可证开源Ming-3.0语音合成模型（0.5B稠密版与基于Ling V3的79亿总参/13亿激活MoE tiny版），10月19日在GitHub放出推理代码，权重同步上架Hugging Face与ModelScope；在Artificial Analysis语音竞技场获1188 Elo。官方未发正式公告。
+OpenAI 的 Decisions API 于 9 月 29 日开发者日宣布后，现向全部客户开放，决策类模型的竞争加剧。
+
+</details>
+
+---
+
+### [Microsoft's Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases 'medical superintelligence'](https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/)
+
+`score 40` · Research & papers · 🇬🇧 English · via TechCrunch
+
+Research published in Science shows that Microsoft Diagnostics correctly diagnosed complex cases twice as often as general practitioners in simulations.
+
+<details><summary>中文摘要</summary>
+
+发表于 Science 的研究显示，微软诊断系统在模拟中对复杂病例的正确诊断率超过全科医生的两倍。
 
 </details>
 
@@ -118,6 +132,7 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 
 ## Archive (last 30 days)
 
+- [2026-10-22](archive/2026-10-22.md)
 - [2026-10-21](archive/2026-10-21.md)
 - [2026-10-20](archive/2026-10-20.md)
 - [2026-10-19](archive/2026-10-19.md)
@@ -147,7 +162,6 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 - [2026-09-25](archive/2026-09-25.md)
 - [2026-09-24](archive/2026-09-24.md)
 - [2026-09-23](archive/2026-09-23.md)
-- [2026-09-22](archive/2026-09-22.md)
 
 Full list in [`archive/`](archive/).
 
