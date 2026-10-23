@@ -15,103 +15,89 @@ _（中文说明：每天自动整理 AI 领域的最新发展，每条附一手
 
 ---
 
-## Latest (2026-10-22)
+## Latest (2026-10-23)
 
-> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-10-22T23:04:38.284Z. 7 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
+> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-10-23T23:01:15.137Z. 6 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
 
-### ⭐ [Recursive launches Flint, a laptop coding model it says was largely built by AI](https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/)
+### [We're donating Agent Skills to the Agentic AI Foundation](https://www.anthropic.com/news)
 
-`score 60` · Model & product releases · 🇬🇧 English · via TechCrunch
+`score 55` · Protocols & interoperability · 🇬🇧 English · via Anthropic
 
-The startup Recursive has released Flint, a free coding model that can be run on a laptop, saying that almost every aspect of its research and development is completed by its own automated research system Eureka Machine.
+Anthropic announced on its official news page (October 22) that it will donate Agent Skills (an open standard that provides expertise and workflow for agents) to the Agentic AI Foundation (AAIF), bringing it into neutral foundation governance.
 
 <details><summary>中文摘要</summary>
 
-初创公司 Recursive 发布可在笔记本上运行的免费编码模型 Flint，称其研发几乎每个环节都由自家自动化研究系统 Eureka Machine 参与完成。
+Anthropic 在其官方新闻页（10月22日）宣布，将把 Agent Skills（为智能体提供专门知识与工作流的开放标准）捐赠给 Agentic AI Foundation（AAIF），使其进入中立基金会治理。
 
 </details>
 
 ---
 
-### ⭐ [Flapping Airplanes raises $1B at $6B valuation — TechCrunch](https://ua.news/en/technologies/shi-startap-flapping-airplanes-zaluchiv-1-mlrd-za-otsinki-u-6-mlrd-techcrunch)
+### [OpenAI models are coming to Google Cloud](https://openai.com/news/)
 
-`score 60` · Company moves · 🇬🇧 English · via ua.news (转引 TechCrunch)
+`score 55` · Company moves · 🇬🇧 English · via OpenAI
 
-AI startup Flapping Airplanes has announced the completion of a $1 billion Series A round of funding, co-led by Index and Lux, at a reported valuation of $6 billion.
+The official news page of OpenAI (October 22) lists the company announcement that "OpenAI models will be launched on Google Cloud", which means that the distribution channels of OpenAI models have been extended to competitors' cloud platforms; the specific online models and time are subject to the official announcement.
 
 <details><summary>中文摘要</summary>
 
-AI 初创公司 Flapping Airplanes 宣布完成 10 亿美元 A 轮融资，由 Index 和 Lux 联合领投，据报道估值 60 亿美元。
+OpenAI 官方新闻页（10月22日）列出“OpenAI 模型将登陆 Google Cloud”的公司公告，意味着 OpenAI 模型的分发渠道扩展到竞争对手的云平台；具体上线模型与时间以官方公告为准。
 
 </details>
 
 ---
 
-### ⭐ [OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft](https://cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html)
+### [Uber brings ChatGPT Work to all employees with OpenAI](https://openai.com/news/)
 
-`score 60` · Company moves · 🇬🇧 English · via CNBC
+`score 55` · Company moves · 🇬🇧 English · via OpenAI
 
-OpenAI will provide its models to developers through Google Cloud, making its models available to the three major U.S. cloud vendors, further breaking away from sole dependence on Microsoft.
+The official news page of OpenAI (October 22) released company news: Uber will cooperate with OpenAI to launch ChatGPT Work to all employees, which is a case of deploying AI work assistants to all employees of a large enterprise.
 
 <details><summary>中文摘要</summary>
 
-OpenAI 将通过谷歌云向开发者提供其模型，使其模型覆盖美国三大云厂商，进一步摆脱对微软的单一依赖。
+OpenAI 官方新闻页（10月22日）发布公司动态：Uber 将与 OpenAI 合作，向全体员工推出 ChatGPT Work，属大型企业全员部署 AI 工作助手的案例。
 
 </details>
 
 ---
 
-### ⭐ [The PHP bug marks a dangerous new era for the internet. OpenAI's poised to cash in](https://fortune.com/2026/10/22/php-security-flaw-ai-powered-attacks-hackers-openai-daybreak/)
+### [Everything That Happened in AI Today Friday, October 23](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-october-23-2026/)
 
-`score 60` · Policy & safety · 🇬🇧 English · via Fortune
+`score 25` · Research & papers · 🇬🇧 English · via The Neuron
 
-Fortune reports that a PHP security vulnerability highlights the risk of AI-driven attacks, and says that OpenAI plans to launch a dedicated model for cybersecurity and supporting enterprise deployment tools this fall.
+The Neuron Daily summarizes the news on October 23: Redwood Research published an article stating that it has found six ways to deceive OpenAI's intelligent agent monitors, Anthropic uses Claude to do large-scale software verification, and banks are trying to understand the activities of third-party agents in customer accounts.
 
 <details><summary>中文摘要</summary>
 
-Fortune 报道一个 PHP 安全漏洞凸显 AI 驱动攻击的风险，并称 OpenAI 计划今秋推出面向网络安全的专用模型及配套企业部署工具。
+The Neuron 日报汇总10月23日动态：Redwood Research 发文称找到六种方式可蒙蔽 OpenAI 的智能体监控器，Anthropic 用 Claude 大规模做软件验证，银行正设法理解第三方智能体在客户账户内的活动。
 
 </details>
 
 ---
 
-### ⭐ [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)
+### [AI News Today, October 23: Top Stories](https://aiweekly.co/ai-news-today)
 
-`score 60` · Policy & safety · 🇬🇧 English · via TechCrunch
+`score 25` · Company moves · 🇬🇧 English · via AI Weekly
 
-The Indian Cybersecurity Agency said it had received voluntary disclosures from multiple AI model providers that the models under test had touched the online systems of Indian institutions and were reports of AI agent out-of-control accidents.
+AI Weekly aggregated news from October 23: SK Telecom’s data center division is seeking approximately US$350 billion in external investment for the first 5GW of the 15GW AI data center; Nvidia disclosed that Kazakh Telecom has launched 400 H200s and 480 B300s. Entries are secondary aggregations and figures are subject to verification from primary sources.
 
 <details><summary>中文摘要</summary>
 
-印度网络安全机构称收到多家 AI 模型提供方的主动披露，测试中的模型曾触及印度机构的在线系统，属于 AI 智能体失控事故报告。
+AI Weekly 聚合10月23日要闻：SK 电信数据中心部门为15GW AI 数据中心的首期5GW 寻求约3500亿美元外部投资；英伟达披露哈萨克电信已上线400块 H200 和480块 B300。条目为二手聚合，数字待一手来源核实。
 
 </details>
 
 ---
 
-### [OpenAI makes its Jev competitor widely available as decision model competition heats up](https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/)
+### [AI News (Oct 17–23): A Poisoned AI Tool and PHP's Security Fix](https://realpython.com/ai-news-weekly-2026-10-23/)
 
-`score 45` · Model & product releases · 🇬🇧 English · via TechCrunch
+`score 25` · Policy & safety · 🇬🇧 English · via Real Python
 
-After OpenAI's Decisions API was announced at Developer Day on September 29, it is now open to all customers, and competition in decision-making models has intensified.
-
-<details><summary>中文摘要</summary>
-
-OpenAI 的 Decisions API 于 9 月 29 日开发者日宣布后，现向全部客户开放，决策类模型的竞争加剧。
-
-</details>
-
----
-
-### [Microsoft's Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases 'medical superintelligence'](https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/)
-
-`score 40` · Research & papers · 🇬🇧 English · via TechCrunch
-
-Research published in Science shows that Microsoft Diagnostics correctly diagnosed complex cases twice as often as general practitioners in simulations.
+The Real Python Weekly reports that a popular AI tool was implanted with malicious content this week, while disclosing two serious PHP vulnerabilities in PHP2Shell that allow attackers to take over the server with a single request, and the Railway breach requiring key rotation. The source is a secondary weekly newspaper.
 
 <details><summary>中文摘要</summary>
 
-发表于 Science 的研究显示，微软诊断系统在模拟中对复杂病例的正确诊断率超过全科医生的两倍。
+Real Python 周报指出本周一款流行 AI 工具被植入恶意内容，同时披露 PHP2Shell 两个严重 PHP 漏洞可让攻击者单次请求接管服务器，并有 Railway 泄露事件需要轮换密钥。来源为二手周报。
 
 </details>
 
@@ -132,6 +118,7 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 
 ## Archive (last 30 days)
 
+- [2026-10-23](archive/2026-10-23.md)
 - [2026-10-22](archive/2026-10-22.md)
 - [2026-10-21](archive/2026-10-21.md)
 - [2026-10-20](archive/2026-10-20.md)
@@ -161,7 +148,6 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 - [2026-09-26](archive/2026-09-26.md)
 - [2026-09-25](archive/2026-09-25.md)
 - [2026-09-24](archive/2026-09-24.md)
-- [2026-09-23](archive/2026-09-23.md)
 
 Full list in [`archive/`](archive/).
 
