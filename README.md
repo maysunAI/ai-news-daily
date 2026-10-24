@@ -15,89 +15,33 @@ _（中文说明：每天自动整理 AI 领域的最新发展，每条附一手
 
 ---
 
-## Latest (2026-10-23)
+## Latest (2026-10-24)
 
-> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-10-23T23:01:15.137Z. 6 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
+> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-10-24T23:01:07.441Z. 2 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
 
-### [We're donating Agent Skills to the Agentic AI Foundation](https://www.anthropic.com/news)
+### [AI News Today: October 21, 2026 — Elon Musk's School Ad Astra](https://pasqualepillitteri.it/ai-news-today)
 
-`score 55` · Protocols & interoperability · 🇬🇧 English · via Anthropic
+`score 25` · Company moves · 🇬🇧 English · via pasqualepillitteri.it
 
-Anthropic announced on its official news page (October 22) that it will donate Agent Skills (an open standard that provides expertise and workflow for agents) to the Agentic AI Foundation (AAIF), bringing it into neutral foundation governance.
+An AI daily briefing updated on October 21 listed Elon Musk’s education project School Ad Astra as the headline, introducing its positioning and operation methods; the source is a second-hand aggregation page, and the details must be subject to the original report.
 
 <details><summary>中文摘要</summary>
 
-Anthropic 在其官方新闻页（10月22日）宣布，将把 Agent Skills（为智能体提供专门知识与工作流的开放标准）捐赠给 Agentic AI Foundation（AAIF），使其进入中立基金会治理。
+一份10月21日更新的AI每日简报把埃隆·马斯克的教育项目School Ad Astra列为头条，介绍其定位与运作方式；该来源为二手聚合页，细节需以原始报道为准。
 
 </details>
 
 ---
 
-### [OpenAI models are coming to Google Cloud](https://openai.com/news/)
+### [Latest AI announcements News | October, 2026 (STARTUP EDITION)](https://blog.mean.ceo/?p=11382)
 
-`score 55` · Company moves · 🇬🇧 English · via OpenAI
+`score 25` · Company moves · 🇬🇧 English · via mean.ceo blog
 
-The official news page of OpenAI (October 22) lists the company announcement that "OpenAI models will be launched on Google Cloud", which means that the distribution channels of OpenAI models have been extended to competitors' cloud platforms; the specific online models and time are subject to the official announcement.
-
-<details><summary>中文摘要</summary>
-
-OpenAI 官方新闻页（10月22日）列出“OpenAI 模型将登陆 Google Cloud”的公司公告，意味着 OpenAI 模型的分发渠道扩展到竞争对手的云平台；具体上线模型与时间以官方公告为准。
-
-</details>
-
----
-
-### [Uber brings ChatGPT Work to all employees with OpenAI](https://openai.com/news/)
-
-`score 55` · Company moves · 🇬🇧 English · via OpenAI
-
-The official news page of OpenAI (October 22) released company news: Uber will cooperate with OpenAI to launch ChatGPT Work to all employees, which is a case of deploying AI work assistants to all employees of a large enterprise.
+The October AI Monthly Briefing mentions that Deutsche Telekom has set an AI cost reduction target of 2.5 billion euros, the EU AI Act has entered the enforcement stage, and Anthropic is negotiating with Samsung on customized chips; it is second-hand aggregate information, and the specific details need to be verified by primary sources.
 
 <details><summary>中文摘要</summary>
 
-OpenAI 官方新闻页（10月22日）发布公司动态：Uber 将与 OpenAI 合作，向全体员工推出 ChatGPT Work，属大型企业全员部署 AI 工作助手的案例。
-
-</details>
-
----
-
-### [Everything That Happened in AI Today Friday, October 23](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-october-23-2026/)
-
-`score 25` · Research & papers · 🇬🇧 English · via The Neuron
-
-The Neuron Daily summarizes the news on October 23: Redwood Research published an article stating that it has found six ways to deceive OpenAI's intelligent agent monitors, Anthropic uses Claude to do large-scale software verification, and banks are trying to understand the activities of third-party agents in customer accounts.
-
-<details><summary>中文摘要</summary>
-
-The Neuron 日报汇总10月23日动态：Redwood Research 发文称找到六种方式可蒙蔽 OpenAI 的智能体监控器，Anthropic 用 Claude 大规模做软件验证，银行正设法理解第三方智能体在客户账户内的活动。
-
-</details>
-
----
-
-### [AI News Today, October 23: Top Stories](https://aiweekly.co/ai-news-today)
-
-`score 25` · Company moves · 🇬🇧 English · via AI Weekly
-
-AI Weekly aggregated news from October 23: SK Telecom’s data center division is seeking approximately US$350 billion in external investment for the first 5GW of the 15GW AI data center; Nvidia disclosed that Kazakh Telecom has launched 400 H200s and 480 B300s. Entries are secondary aggregations and figures are subject to verification from primary sources.
-
-<details><summary>中文摘要</summary>
-
-AI Weekly 聚合10月23日要闻：SK 电信数据中心部门为15GW AI 数据中心的首期5GW 寻求约3500亿美元外部投资；英伟达披露哈萨克电信已上线400块 H200 和480块 B300。条目为二手聚合，数字待一手来源核实。
-
-</details>
-
----
-
-### [AI News (Oct 17–23): A Poisoned AI Tool and PHP's Security Fix](https://realpython.com/ai-news-weekly-2026-10-23/)
-
-`score 25` · Policy & safety · 🇬🇧 English · via Real Python
-
-The Real Python Weekly reports that a popular AI tool was implanted with malicious content this week, while disclosing two serious PHP vulnerabilities in PHP2Shell that allow attackers to take over the server with a single request, and the Railway breach requiring key rotation. The source is a secondary weekly newspaper.
-
-<details><summary>中文摘要</summary>
-
-Real Python 周报指出本周一款流行 AI 工具被植入恶意内容，同时披露 PHP2Shell 两个严重 PHP 漏洞可让攻击者单次请求接管服务器，并有 Railway 泄露事件需要轮换密钥。来源为二手周报。
+十月AI月度简报提到德国电信设定25亿欧元的AI降本目标、欧盟AI法案进入执法阶段，以及Anthropic与三星就定制芯片的洽谈；属二手聚合信息，具体细节待一手来源核实。
 
 </details>
 
@@ -118,6 +62,7 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 
 ## Archive (last 30 days)
 
+- [2026-10-24](archive/2026-10-24.md)
 - [2026-10-23](archive/2026-10-23.md)
 - [2026-10-22](archive/2026-10-22.md)
 - [2026-10-21](archive/2026-10-21.md)
@@ -147,7 +92,6 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 - [2026-09-27](archive/2026-09-27.md)
 - [2026-09-26](archive/2026-09-26.md)
 - [2026-09-25](archive/2026-09-25.md)
-- [2026-09-24](archive/2026-09-24.md)
 
 Full list in [`archive/`](archive/).
 
