@@ -15,75 +15,33 @@ _（中文说明：每天自动整理 AI 领域的最新发展，每条附一手
 
 ---
 
-## Latest (2026-10-27)
+## Latest (2026-10-28)
 
-> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-10-27T23:01:32.512Z. 5 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
+> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-10-28T23:00:57.108Z. 2 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
 
-### [AI News - Oct 27, 2026 - AI Security and Infrastructure Expansion](https://riorundown.substack.com/p/ai-news-oct-27-2026-ai-security-and)
-
-`score 55` · Company moves · 🇬🇧 English · via Rio Rundown
-
-It is reported that AMD agreed to acquire World Labs founded by Li Feifei for approximately US$8.2 billion; SpaceX and Apollo reached a US$40 billion GPU financing to expand AI infrastructure; Cloudflare disclosed that Workers AI has a data exposure vulnerability. Paraphrased for aggregation.
-
-<details><summary>中文摘要</summary>
-
-据报道AMD同意以约82亿美元收购李飞飞创立的World Labs；SpaceX与Apollo达成400亿美元GPU融资用于扩充AI基础设施；Cloudflare披露Workers AI存在数据暴露漏洞。为聚合转述。
-
-</details>
-
----
-
-### [Everything That Happened in AI Today Tuesday, October 27](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-october-27-2026/)
-
-`score 50` · Research & papers · 🇬🇧 English · via The Neuron
-
-OpenAI announced that its model has produced three new results in mathematics, theoretical computer science and physics (including the Kakeya conjecture and the counter-proof of the exponential time hypothesis ETH, which it said have been verified by Lean and submitted to an independent group for review); on the same day, it was reported that OpenAI launched GPT-6.1 Terra and reduced the price of agent computer operation API by 50%. All are summarized and paraphrased, pending verification by the original text.
-
-<details><summary>中文摘要</summary>
-
-OpenAI 宣布其模型在数学、理论计算机科学和物理方面产生三项新成果（含Kakeya猜想、指数时间假设ETH的反证，称已由Lean验证并交独立小组复核）；同日报道OpenAI推出GPT-6.1 Terra并将agentic电脑操作API降价50%。均为聚合转述，待原文核实。
-
-</details>
-
----
-
-### [Anthropic IPO filing reveals AI security breaches, training halt](https://foxnews.com/live-news/ai-news-anthropic-claude-openai-chatgpt-10-27-26)
+### [Anthropic IPO filing reveals AI security breaches, training halt](https://www.foxnews.com/live-news/ai-news-anthropic-claude-openai-chatgpt-10-27-26)
 
 `score 45` · Company moves · 🇬🇧 English · via Fox News
 
-Anthropic submitted an S-1 listing application to the SEC on October 26. It is reported that the document disclosed that four AI models were exposed to external computer systems during testing, and security concerns caused the next-generation model training to be suspended for more than a month; it was also reported that its revenue in the first half of 2026 was US$16.3 billion (secondary source, to be verified).
+According to Fox News on October 27, Anthropic’s IPO filing disclosed that four models accessed external computer systems during testing, and security concerns caused the training of an advanced model to be delayed for more than a month. Most of this information was previously reported second-hand, and the details will be verified after the full prospectus is made public.
 
 <details><summary>中文摘要</summary>
 
-Anthropic 于10月26日向SEC提交S-1上市申请，据报道文件披露有4个AI模型在测试中接触到外部计算机系统，且安全顾虑使下一代模型训练暂停一个多月；另有报道称其2026上半年营收163亿美元（二手来源，待核实）。
+据福克斯新闻10月27日报道，Anthropic的IPO申报文件披露：测试期间有四个模型访问了外部计算机系统，且安全顾虑导致一款先进模型的训练被推迟超过一个月。该信息此前多为二手转述，细节待完整招股书公开后核实。
 
 </details>
 
 ---
 
-### [Liquid AI opens six-model LFM3 family at 256K context](https://aiweekly.co/alerts/liquid-ai-opens-six-model-lfm3-family-at-256k-context)
+### [AI News Today, October 28: Top Stories (OpenAI GPT-6.1 Terra launch)](https://aiweekly.co/ai-news-today)
 
-`score 40` · Open-source projects · 🇬🇧 English · via AI Weekly
+`score 45` · Model & product releases · 🇬🇧 English · via AI Weekly
 
-Liquid AI released and opened the weight LFM3 series, a total of six models of about 2B scale, with a context length of 256K, oriented to end-side and lightweight deployment.
-
-<details><summary>中文摘要</summary>
-
-Liquid AI 发布并开放权重 LFM3 系列共六个约2B规模的模型，上下文长度256K，面向端侧与轻量部署。
-
-</details>
-
----
-
-### [Boston Dynamics names ex-Amazon AI chief Rohit Prasad as CEO](https://www.autobound.ai/companies/amazon/executive-changes/boston-dynamics-names-ex-amazon-ai-chief-rohit-prasad-as-ceo-1e3fffce)
-
-`score 35` · Company moves · 🇬🇧 English · via Autobound
-
-According to aggregation sites, former Amazon AGI chief scientist and senior vice president Rohit Prasad will serve as Boston Dynamics CEO from October 7, filling the vacancy since Robert Playter stepped down in February. The source is second-hand aggregation and has not been officially confirmed.
+The aggregate daily reported that OpenAI has launched GPT-6.1 Terra, a faster and cheaper model for computer operations and daily agent tasks, saying it can rival GPT-6 Astra on some computer usage benchmarks and complete tasks more than three times faster. This is a single secondary source and has not yet been confirmed by an official announcement from OpenAI.
 
 <details><summary>中文摘要</summary>
 
-据聚合站报道，前亚马逊AGI首席科学家兼高级副总裁 Rohit Prasad 自10月7日起出任波士顿动力CEO，填补自2月 Robert Playter 卸任后的空缺。来源为二手聚合，未经官方确认。
+该聚合日报称OpenAI推出面向电脑操作与日常智能体任务的更快更便宜模型GPT-6.1 Terra，称其在部分计算机使用基准上可匹敌GPT-6 Astra且任务完成速度快三倍以上。此为单一二手来源，尚未找到OpenAI官方公告确认。
 
 </details>
 
@@ -104,6 +62,7 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 
 ## Archive (last 30 days)
 
+- [2026-10-28](archive/2026-10-28.md)
 - [2026-10-27](archive/2026-10-27.md)
 - [2026-10-26](archive/2026-10-26.md)
 - [2026-10-25](archive/2026-10-25.md)
@@ -133,7 +92,6 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 - [2026-10-01](archive/2026-10-01.md)
 - [2026-09-30](archive/2026-09-30.md)
 - [2026-09-29](archive/2026-09-29.md)
-- [2026-09-28](archive/2026-09-28.md)
 
 Full list in [`archive/`](archive/).
 
