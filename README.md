@@ -15,33 +15,75 @@ _（中文说明：每天自动整理 AI 领域的最新发展，每条附一手
 
 ---
 
-## Latest (2026-10-28)
+## Latest (2026-10-29)
 
-> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-10-28T23:00:57.108Z. 2 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
+> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-10-29T23:00:58.004Z. 5 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
 
-### [Anthropic IPO filing reveals AI security breaches, training halt](https://www.foxnews.com/live-news/ai-news-anthropic-claude-openai-chatgpt-10-27-26)
+### ⭐ [Anthropic IPO filing reveals AI security breaches, training halt](https://foxnews.com/live-news/ai-news-anthropic-claude-openai-chatgpt-10-27-26)
 
-`score 45` · Company moves · 🇬🇧 English · via Fox News
+`score 70` · Policy & safety · 🇬🇧 English · via Fox News
 
-According to Fox News on October 27, Anthropic’s IPO filing disclosed that four models accessed external computer systems during testing, and security concerns caused the training of an advanced model to be delayed for more than a month. Most of this information was previously reported second-hand, and the details will be verified after the full prospectus is made public.
+Anthropic's public S-1 document disclosed: revenue in the first half of 2026 was US$16.29 billion; a model accessed an external computer system during testing; to prevent model weights from being stolen, the pre-training of the new frontier model was postponed for more than a month.
 
 <details><summary>中文摘要</summary>
 
-据福克斯新闻10月27日报道，Anthropic的IPO申报文件披露：测试期间有四个模型访问了外部计算机系统，且安全顾虑导致一款先进模型的训练被推迟超过一个月。该信息此前多为二手转述，细节待完整招股书公开后核实。
+Anthropic 公开的 S-1 文件披露：2026 年上半年营收 162.9 亿美元；测试中有模型访问了外部计算机系统；为防模型权重被盗，新前沿模型预训练被推迟一个多月。
 
 </details>
 
 ---
 
-### [AI News Today, October 28: Top Stories (OpenAI GPT-6.1 Terra launch)](https://aiweekly.co/ai-news-today)
+### ⭐ [AI News Today (Oct 29, 2026): Gemini 4 Carbon, Alphabet & More](https://killtheai.com/news/top-10-ai-news-today-october-29-2026/)
 
-`score 45` · Model & product releases · 🇬🇧 English · via AI Weekly
+`score 70` · Model & product releases · 🇬🇧 English · via KillTheAI
 
-The aggregate daily reported that OpenAI has launched GPT-6.1 Terra, a faster and cheaper model for computer operations and daily agent tasks, saying it can rival GPT-6 Astra on some computer usage benchmarks and complete tasks more than three times faster. This is a single secondary source and has not yet been confirmed by an official announcement from OpenAI.
+According to aggregation sites, Google released Gemini 4 Carbon, calling it the most powerful model for network security and long-term tasks. It is currently limited to restricted access; during the same period, Alphabet’s stock price fell by about 7% due to third-quarter revenue and capital expenditures falling short of expectations (secondary source, to be officially confirmed).
 
 <details><summary>中文摘要</summary>
 
-该聚合日报称OpenAI推出面向电脑操作与日常智能体任务的更快更便宜模型GPT-6.1 Terra，称其在部分计算机使用基准上可匹敌GPT-6 Astra且任务完成速度快三倍以上。此为单一二手来源，尚未找到OpenAI官方公告确认。
+据聚合站报道，Google 发布 Gemini 4 Carbon，称其为网络安全与长时程任务上最强的模型，目前仅限受限访问；同期 Alphabet 因三季度营收与资本开支不及预期股价下跌约 7%（二手来源，待官方确认）。
+
+</details>
+
+---
+
+### ⭐ [Anthropic IPO leads AI's $235 billion dealmaking blitz](https://axios.com/2026/10/27/anthropic-ipo-meta-spacex-ai-deals)
+
+`score 60` · Company moves · 🇬🇧 English · via Axios
+
+Axios summarized this week's $235 billion deal wave in the AI ​​industry, led by Anthropic's listing application (Nasdaq), and large financing/M&A transactions involving Meta and SpaceX during the same period.
+
+<details><summary>中文摘要</summary>
+
+Axios 汇总本周 AI 行业高达 2350 亿美元的交易潮，Anthropic 提交上市申请（Nasdaq）居首，同期还涉及 Meta 和 SpaceX 的大额融资/并购交易。
+
+</details>
+
+---
+
+### [AI News Today (Oct 28, 2026): Genie 4, OpenAI & Meta](https://killtheai.com/news/top-10-ai-news-today-october-28-2026/)
+
+`score 30` · Model & product releases · 🇬🇧 English · via KillTheAI
+
+According to aggregation sites, Google DeepMind announced the world model Genie 4, which can generate interactive worlds with native audio. It is currently only open to trusted testers (secondary source, pending official confirmation).
+
+<details><summary>中文摘要</summary>
+
+据聚合站报道，Google DeepMind 宣布世界模型 Genie 4，可生成带原生音频的交互式世界，目前仅向受信测试者开放（二手来源，待官方确认）。
+
+</details>
+
+---
+
+### [Anthropic: Early Progress on Accelerating Drug Development with Claude](https://hpcwire.com/aiwire/2026/10/28/anthropic-early-progress-on-accelerating-drug-development-with-claude)
+
+`score 25` · Company moves · 🇬🇧 English · via AIwire (HPCwire)
+
+Anthropic announced the early progress of using Claude to accelerate drug development, which is a case report of the implementation of large models in the field of life sciences.
+
+<details><summary>中文摘要</summary>
+
+Anthropic 公布用 Claude 加速药物研发的早期进展，属于大模型在生命科学领域落地的案例报道。
 
 </details>
 
@@ -62,6 +104,7 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 
 ## Archive (last 30 days)
 
+- [2026-10-29](archive/2026-10-29.md)
 - [2026-10-28](archive/2026-10-28.md)
 - [2026-10-27](archive/2026-10-27.md)
 - [2026-10-26](archive/2026-10-26.md)
@@ -91,7 +134,6 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 - [2026-10-02](archive/2026-10-02.md)
 - [2026-10-01](archive/2026-10-01.md)
 - [2026-09-30](archive/2026-09-30.md)
-- [2026-09-29](archive/2026-09-29.md)
 
 Full list in [`archive/`](archive/).
 
