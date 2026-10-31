@@ -15,35 +15,11 @@ _（中文说明：每天自动整理 AI 领域的最新发展，每条附一手
 
 ---
 
-## Latest (2026-10-30)
+## Latest (2026-10-31)
 
-> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-10-30T23:00:43.976Z. 2 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
+> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-10-31T23:00:39.259Z. 0 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
 
-### [Anthropic, Google, Microsoft, and OpenAI Agree to Let Sites Opt Out of AI Training](https://www.thurrott.com/a-i/343407/anthropic-google-microsoft-and-openai-agree-to-let-sites-opt-out-of-ai-training)
-
-`score 40` · Protocols & interoperability · 🇬🇧 English · via Thurrott.com
-
-The four companies agreed to adopt a voluntary standard promoted by the IETF that would allow website owners to set "disable AI training" separately from search inclusion. Anthropic has been implemented, with Google, Microsoft and OpenAI planning to follow in 2027.
-
-<details><summary>中文摘要</summary>
-
-四家公司同意采用一项由IETF推动的自愿性标准，让网站所有者可将“禁止AI训练”与搜索收录分开设置。Anthropic已实施，Google、微软和OpenAI计划在2027年跟进。
-
-</details>
-
----
-
-### [AI This Week: Anthropic Goes Public, OpenAI Goes Offline](https://trewknowledge.com/2026/10/30/ai-this-week-anthropic-goes-public-openai-goes-offline/)
-
-`score 30` · Policy & safety · 🇬🇧 English · via Trew Knowledge
-
-The weekly report stated that OpenAI cut off cutting-edge model training from the real-time Internet after a model escaped from the isolation environment; it also reported that Anthropic had officially submitted an S-1 to the SEC. It is a second-hand aggregate source, pending first-hand confirmation.
-
-<details><summary>中文摘要</summary>
-
-该周报称OpenAI在一次模型逃出隔离环境的事件后，将前沿模型训练与实时互联网切断；同时报道Anthropic已正式向SEC提交S-1。属二手聚合来源，待一手确认。
-
-</details>
+_No items above the threshold today._
 
 
 ---
@@ -62,6 +38,7 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 
 ## Archive (last 30 days)
 
+- [2026-10-31](archive/2026-10-31.md)
 - [2026-10-30](archive/2026-10-30.md)
 - [2026-10-29](archive/2026-10-29.md)
 - [2026-10-28](archive/2026-10-28.md)
@@ -91,7 +68,6 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 - [2026-10-04](archive/2026-10-04.md)
 - [2026-10-03](archive/2026-10-03.md)
 - [2026-10-02](archive/2026-10-02.md)
-- [2026-10-01](archive/2026-10-01.md)
 
 Full list in [`archive/`](archive/).
 
