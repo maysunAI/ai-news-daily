@@ -15,11 +15,35 @@ _（中文说明：每天自动整理 AI 领域的最新发展，每条附一手
 
 ---
 
-## Latest (2026-11-05)
+## Latest (2026-11-06)
 
-> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-11-05T23:00:43.056Z. 0 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
+> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-11-06T23:01:04.083Z. 2 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
 
-_No items above the threshold today._
+### ⭐ [OpenAI launches GPT-6 Cyber with stronger exploit research and higher API price than Anthropic and Google](https://venturebeat.com/technology/openai-launches-gpt-6-cyber-with-stronger-exploit-research-and-higher-api-price-than-anthropic-and-google)
+
+`score 60` · Model & product releases · 🇬🇧 English · via VentureBeat
+
+OpenAI releases GPT-6 Cyber, a dedicated model for security research, saying it can find and exploit more software vulnerabilities; access is limited, and API pricing is higher than similar network security models from Anthropic and Google.
+
+<details><summary>中文摘要</summary>
+
+OpenAI 发布面向安全研究的专用模型 GPT-6 Cyber，称其能发现并利用更多软件漏洞；访问受限，API 定价高于 Anthropic 与 Google 的同类网络安全模型。
+
+</details>
+
+---
+
+### [Claude Gets Personal Finance Feature With Bank Account Linking](https://macrumors.com/2026/11/05/claude-personal-finance)
+
+`score 45` · Model & product releases · 🇬🇧 English · via MacRumors
+
+Anthropic has added a personal finance feature to Claude that allows you to link bank and credit card accounts in a read-only way to analyze income and expenses, but you can't transfer, manage or invest funds.
+
+<details><summary>中文摘要</summary>
+
+Anthropic 为 Claude 新增个人理财功能，可只读方式关联银行和信用卡账户以分析收支，但无法转账、管理或投资资金。
+
+</details>
 
 
 ---
@@ -38,6 +62,7 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 
 ## Archive (last 30 days)
 
+- [2026-11-06](archive/2026-11-06.md)
 - [2026-11-05](archive/2026-11-05.md)
 - [2026-11-04](archive/2026-11-04.md)
 - [2026-11-03](archive/2026-11-03.md)
@@ -67,7 +92,6 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 - [2026-10-10](archive/2026-10-10.md)
 - [2026-10-09](archive/2026-10-09.md)
 - [2026-10-08](archive/2026-10-08.md)
-- [2026-10-07](archive/2026-10-07.md)
 
 Full list in [`archive/`](archive/).
 
