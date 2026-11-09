@@ -15,47 +15,19 @@ _（中文说明：每天自动整理 AI 领域的最新发展，每条附一手
 
 ---
 
-## Latest (2026-11-08)
+## Latest (2026-11-09)
 
-> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-11-08T23:00:46.961Z. 3 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
+> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-11-09T23:00:56.606Z. 1 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
 
-### ⭐ [Fal raises $1.3 billion as AI inference startup doubles valuation to $16B](https://gcn.com/fal-raises-billion-inference-startup-doubles/23096)
+### ⭐ [Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds](https://cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html)
 
-`score 60` · Company moves · 🇬🇧 English · via GCN
+`score 85` · Model & product releases · 🇬🇧 English · via CNBC
 
-AI inference platform Fal completed US$1.3 billion in Series F financing, led by Bessemer Venture Partners, with its valuation doubled to US$16 billion, announced on November 3; reflecting the continued concentration of capital in the inference infrastructure track.
-
-<details><summary>中文摘要</summary>
-
-AI推理平台Fal完成13亿美元F轮融资，由Bessemer Venture Partners领投，估值翻倍至160亿美元，11月3日宣布；反映推理基础设施赛道资本持续集中。
-
-</details>
-
----
-
-### ⭐ [Thinking Machines raises $5 billion at $40 billion valuation led by Accel](https://jawlah.co/en/67847)
-
-`score 60` · Company moves · 🇬🇧 English · via Jawlah
-
-According to Business Insider, Thinking Machines Lab is about to complete a new round of financing of US$5 billion at a valuation of US$40 billion, led by Accel; the delivery has not yet been confirmed in the search results.
+Anthropic released Claude Fable 5.2 and Mythos 5.2 on November 9, which have improved coding, reasoning and visual capabilities; this is Anthropic's first cutting-edge model after Dario Amodei called for slowing down the development of AI. The release time coincides with the increase in rumors of its IPO.
 
 <details><summary>中文摘要</summary>
 
-据Business Insider报道，Thinking Machines Lab即将以400亿美元估值完成50亿美元新一轮融资，由Accel领投；目前搜索结果中尚未确认交割。
-
-</details>
-
----
-
-### [Traversal raises $120 million at $1 billion valuation](https://americanbazaaronline.com/2026/11/08/traversal-120-million-funding-billion-dollar-valuation-491804)
-
-`score 40` · Company moves · 🇬🇧 English · via American Bazaar
-
-New York AI startup Traversal raised US$120 million and was valued at US$1 billion; its AI agent is used to diagnose software faults.
-
-<details><summary>中文摘要</summary>
-
-纽约AI初创公司Traversal融资1.2亿美元，估值达10亿美元；其AI智能体用于诊断软件故障。
+Anthropic 于11月9日发布 Claude Fable 5.2 与 Mythos 5.2，在编码、推理和视觉能力上有提升；这是 Dario Amodei 呼吁放慢AI发展后 Anthropic 的首批前沿模型，发布时间正值其IPO传闻升温。
 
 </details>
 
@@ -76,6 +48,7 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 
 ## Archive (last 30 days)
 
+- [2026-11-09](archive/2026-11-09.md)
 - [2026-11-08](archive/2026-11-08.md)
 - [2026-11-07](archive/2026-11-07.md)
 - [2026-11-06](archive/2026-11-06.md)
@@ -105,7 +78,6 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 - [2026-10-13](archive/2026-10-13.md)
 - [2026-10-12](archive/2026-10-12.md)
 - [2026-10-11](archive/2026-10-11.md)
-- [2026-10-10](archive/2026-10-10.md)
 
 Full list in [`archive/`](archive/).
 
