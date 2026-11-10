@@ -15,21 +15,11 @@ _（中文说明：每天自动整理 AI 领域的最新发展，每条附一手
 
 ---
 
-## Latest (2026-11-09)
+## Latest (2026-11-10)
 
-> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-11-09T23:00:56.606Z. 1 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
+> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-11-10T23:00:44.669Z. 0 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
 
-### ⭐ [Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds](https://cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html)
-
-`score 85` · Model & product releases · 🇬🇧 English · via CNBC
-
-Anthropic released Claude Fable 5.2 and Mythos 5.2 on November 9, which have improved coding, reasoning and visual capabilities; this is Anthropic's first cutting-edge model after Dario Amodei called for slowing down the development of AI. The release time coincides with the increase in rumors of its IPO.
-
-<details><summary>中文摘要</summary>
-
-Anthropic 于11月9日发布 Claude Fable 5.2 与 Mythos 5.2，在编码、推理和视觉能力上有提升；这是 Dario Amodei 呼吁放慢AI发展后 Anthropic 的首批前沿模型，发布时间正值其IPO传闻升温。
-
-</details>
+_No items above the threshold today._
 
 
 ---
@@ -48,6 +38,7 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 
 ## Archive (last 30 days)
 
+- [2026-11-10](archive/2026-11-10.md)
 - [2026-11-09](archive/2026-11-09.md)
 - [2026-11-08](archive/2026-11-08.md)
 - [2026-11-07](archive/2026-11-07.md)
@@ -77,7 +68,6 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 - [2026-10-14](archive/2026-10-14.md)
 - [2026-10-13](archive/2026-10-13.md)
 - [2026-10-12](archive/2026-10-12.md)
-- [2026-10-11](archive/2026-10-11.md)
 
 Full list in [`archive/`](archive/).
 
