@@ -15,11 +15,49 @@ _（中文说明：每天自动整理 AI 领域的最新发展，每条附一手
 
 ---
 
-## Latest (2026-11-10)
+## Latest (2026-11-11)
 
-> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-11-10T23:00:44.669Z. 0 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
+> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-11-11T23:00:50.484Z. 3 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
 
-_No items above the threshold today._
+### ⭐ [OpenAI reportedly raises $11B in new funding at $1.25T valuation](https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/)
+
+`score 75` · Company moves · 🇬🇧 English · via SiliconANGLE
+
+According to Bloomberg, OpenAI has completed a new round of financing of approximately US$11 billion, with a valuation of US$1.25 trillion. This is only the first part of a total financing of up to US$20 billion, and the rest is expected to be in place within a few weeks; OpenAI has not yet officially confirmed.
+
+<details><summary>中文摘要</summary>
+
+据彭博社报道，OpenAI 已完成约110亿美元新一轮融资，估值1.25万亿美元，这只是总额最高200亿美元融资的第一部分，其余预计数周内到位；OpenAI 尚未官方确认。
+
+</details>
+
+---
+
+### [AGIBOT unveils GO-3 Preview and takes top spot on three embodied AI benchmarks](https://roboticsandautomationnews.com/2026/11/05/agibot-unveils-go-3-preview-and-takes-top-spot-on-three-embodied-ai-benchmarks/106711/)
+
+`score 45` · Model & product releases · 🇬🇧 English · via Robotics & Automation News
+
+AgiBot has released the embodied basic model GO-3 Preview, which covers the full life cycle of pre-training, post-training and post-deployment learning. It ranks first in the three embodied benchmarks of RoboDojo, RoboTwin and RoboColiseum (self-reported by the manufacturer). Officially, it will be fully open sourced before the end of 2026.
+
+<details><summary>中文摘要</summary>
+
+智元机器人（AgiBot）发布具身基础模型 GO-3 Preview，覆盖预训练、后训练与部署后学习全生命周期，并在 RoboDojo、RoboTwin、RoboColiseum 三项具身基准上排名第一（厂商自报），官方称将在2026年底前完整开源。
+
+</details>
+
+---
+
+### [OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google](https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google)
+
+`score 45` · Model & product releases · 🇬🇧 English · via TechCrunch
+
+OpenAI is testing merchant profiles and Business Hub in ChatGPT, making ChatGPT more like a search portal for consumers to discover merchants. It is currently in the beta stage.
+
+<details><summary>中文摘要</summary>
+
+OpenAI 在 ChatGPT 中测试商家档案与 Business Hub，让 ChatGPT 更像消费者发现商家的搜索入口，目前处于 beta 阶段。
+
+</details>
 
 
 ---
@@ -38,6 +76,7 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 
 ## Archive (last 30 days)
 
+- [2026-11-11](archive/2026-11-11.md)
 - [2026-11-10](archive/2026-11-10.md)
 - [2026-11-09](archive/2026-11-09.md)
 - [2026-11-08](archive/2026-11-08.md)
@@ -67,7 +106,6 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 - [2026-10-15](archive/2026-10-15.md)
 - [2026-10-14](archive/2026-10-14.md)
 - [2026-10-13](archive/2026-10-13.md)
-- [2026-10-12](archive/2026-10-12.md)
 
 Full list in [`archive/`](archive/).
 
