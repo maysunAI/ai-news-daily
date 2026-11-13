@@ -15,19 +15,33 @@ _（中文说明：每天自动整理 AI 领域的最新发展，每条附一手
 
 ---
 
-## Latest (2026-11-12)
+## Latest (2026-11-13)
 
-> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-11-12T23:00:57.257Z. 1 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
+> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-11-13T23:01:06.921Z. 2 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
 
-### [Graphon raises $35M Series A led by RRE Ventures](https://www.siliconreport.com/graphon-raises-35m-series-a-led-by-rre-ventures)
+### [Commerce Probe of Megaspeed Moved to DOJ After Nvidia Outreach, NYT Reports](https://letsdatascience.com/news/commerce-probe-of-megaspeed-moved-to-doj-after-nvidia-outrea-d16980b3)
 
-`score 40` · Company moves · 🇬🇧 English · via Silicon Report
+`score 45` · Company moves · 🇬🇧 English · via LetsDataScience (转引 NYT)
 
-San Francisco company Graphon Labs announced on November 10 that it had completed a $35 million Series A round of financing, led by RRE Ventures, with participation from HP, Energy Impact Partners, Hitachi Ventures and others, with total financing of approximately $43.3 million. The company develops persistent memory infrastructure for AI agents.
+According to the New York Times, the Commerce Department’s chip smuggling investigation into Singaporean company Megaspeed was transferred to the Department of Justice after Nvidia’s legal chief contacted investigators, and the criminal investigation is now continuing by the Department of Justice; the report did not confirm Nvidia’s improper intervention, and Megaspeed said it was conducting an internal review. The company has been linked to Huang Jen-Hsun’s alleged espionage-related incidents, deepening regulatory pressure on Nvidia.
 
 <details><summary>中文摘要</summary>
 
-旧金山公司Graphon Labs于11月10日宣布完成3500万美元A轮融资，由RRE Ventures领投，HP、Energy Impact Partners、Hitachi Ventures等参投，累计融资约4330万美元。公司做面向AI智能体的持久记忆基础设施。
+据纽约时报报道，商务部对新加坡公司 Megaspeed 的芯片走私调查在英伟达法务负责人联系调查人员后被转交司法部，现由司法部继续刑事调查；报道未证实英伟达不当干预，Megaspeed 称正在内部审查。该公司与黄仁勋被指的间谍关联事件相关，加深英伟达的监管压力。
+
+</details>
+
+---
+
+### [[经济] US stocks slide, yields jump, USD higher after hotter-than-expected October CPI](https://investinglive.com/technical-analysis/us-stocks-slide-yields-jump-usd-higher-after-hotter-than-expected-october-cpi/)
+
+`score 45` · Company moves · 🇬🇧 English · via investinglive
+
+The U.S. CPI in October was higher than expected (overall 0.4% month-on-month, core 0.3% for three consecutive months). U.S. stocks fell, U.S. bond yields rose, and the U.S. dollar strengthened. The market’s pricing for the Fed’s interest rate hike in December is still high (about 85-89% from various sources); AI stocks such as NVIDIA are also under pressure.
+
+<details><summary>中文摘要</summary>
+
+美国10月CPI高于预期（整体环比0.4%，核心连续三个月0.3%），美股下跌、美债收益率上升、美元走强，市场对12月美联储加息的定价仍高（各来源约85-89%）；英伟达等AI股同时承压。
 
 </details>
 
@@ -48,6 +62,7 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 
 ## Archive (last 30 days)
 
+- [2026-11-13](archive/2026-11-13.md)
 - [2026-11-12](archive/2026-11-12.md)
 - [2026-11-11](archive/2026-11-11.md)
 - [2026-11-10](archive/2026-11-10.md)
@@ -77,7 +92,6 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 - [2026-10-17](archive/2026-10-17.md)
 - [2026-10-16](archive/2026-10-16.md)
 - [2026-10-15](archive/2026-10-15.md)
-- [2026-10-14](archive/2026-10-14.md)
 
 Full list in [`archive/`](archive/).
 
