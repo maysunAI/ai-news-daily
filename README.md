@@ -15,61 +15,61 @@ _（中文说明：每天自动整理 AI 领域的最新发展，每条附一手
 
 ---
 
-## Latest (2026-11-16)
+## Latest (2026-11-17)
 
-> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-11-16T23:06:37.110Z. 4 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
+> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-11-17T23:00:48.366Z. 4 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
 
-### ⭐ [New Australian AI safety and security protections](https://pm.gov.au/media/new-australian-ai-safety-and-security-protections)
+### ⭐ [llama.cpp Ships v1.0.0 With Semantic Versioning for API Breaks](https://letsdatascience.com/news/llamacpp-ships-v100-with-semantic-versioning-for-api-breaks-b200de7e)
 
-`score 85` · Policy & safety · 🇬🇧 English · via Prime Minister of Australia (pm.gov.au)
+`score 60` · Open-source projects · 🇬🇧 English · via Lets Data Science
 
-Australian Prime Minister Albanese announced on November 10 that he would establish mandatory safety and security requirements for all cutting-edge AI companies operating in Australia in the AI ​​standards legislation, and establish a dedicated AI safety regulatory agency that can impose heavy fines on non-compliance companies, while requiring open models for independent testing and setting time limits for incident reporting. This move stems from the OpenAI agent's intrusion into the Medicare statistics website and the government's review conclusion. Specific legislative details have yet to be announced.
+The local inference frameworks llama.cpp and ggml released their first stable version v1.0.0 on November 13, introducing semantic version numbers for libllama and libggml, removing a number of deprecated public APIs, adding FP8 KV cache and TTS service endpoints, and supporting new models such as Kimi-K3.1. Applications that rely on its interfaces may require adaptation when upgrading.
 
 <details><summary>中文摘要</summary>
 
-澳大利亚总理阿尔巴尼斯11月10日宣布，将在AI标准立法中对所有在澳运营的前沿AI公司设立强制性安全与安保要求，并成立专门的AI安全监管机构，可对违规公司处以重罚，同时要求开放模型供独立测试并设定事件报告时限。此举源于OpenAI智能体入侵Medicare统计网站事件及政府的复盘结论，具体立法细节尚待公布。
+本地推理框架llama.cpp与ggml于11月13日发布首个稳定版v1.0.0，为libllama和libggml引入语义化版本号，并移除一批已弃用的公共API，同时新增FP8 KV缓存与TTS服务端点、支持Kimi-K3.1等新模型。依赖其接口的应用升级时可能需要适配。
 
 </details>
 
 ---
 
-### [Trump and Xi to talk US-China AI safety notifications](https://www.foxnews.com/live-news/ai-news-china-super-intelligence-safety-11-11-26.amp)
+### [Ramp AI Index: New Fronts in the AI Trade](https://ramp.com/data/ai-index-nov-2026)
 
-`score 30` · Policy & safety · 🇬🇧 English · via Fox News
+`score 55` · Company moves · 🇬🇧 English · via Ramp
 
-According to Fox News, U.S. Treasury Secretary Bessent said that Trump and Xi Jinping will promote discussions on AI and AI security issues at their meeting next week. Previously, in September, Bessent and He Lifeng agreed to establish an AI security dialogue and explore "incident reporting lines" for serious AI incidents. Various sources are not entirely consistent about the meeting location and date (APEC Shenzhen, approximately November 18-19), and chip export control is not within the scope of the AI ​​mechanism.
+Ramp’s November AI Index (covering October data) shows that the growth rate of AI token spending by US companies has slowed down significantly: OpenAI increased by 2.1% month-on-month, and Anthropic only increased by 0.5%, with almost no growth for two consecutive months; the previous median per capita monthly AI spending in September was US$15.70. This data only covers paying U.S. businesses using Ramp.
 
 <details><summary>中文摘要</summary>
 
-据福克斯新闻报道，美国财长贝森特表示特朗普与习近平将在下周的会晤中推进AI及AI安全议题讨论；此前9月贝森特与何立峰已同意建立AI安全对话并探讨针对严重AI事件的“事件通报线”。各来源对会晤地点和日期（APEC深圳，约11月18-19日）说法不完全一致，芯片出口管制不在该AI机制讨论范围内。
+Ramp 11月AI指数（覆盖10月数据）显示美国企业AI token支出增速明显放缓：OpenAI环比增长2.1%、Anthropic仅0.5%，连续两个月几乎无增长；此前9月人均AI月支出中位数为15.70美元。该数据仅覆盖使用Ramp的付费美国企业。
 
 </details>
 
 ---
 
-### [OpenAI Reportedly Tells Investors Q3 Revenue Jumped Nearly 50% to $10 Billion](https://letsdatascience.com/news/openai-reportedly-tells-investors-q3-revenue-rose-50-to-10-b-e4fc5abe)
+### [Nvidia approaches Arm CEO Rene Haas as potential successor to Jensen Huang, FT reports](https://www.siliconreport.com/nvidia-approaches-arm-ceo-haas-as-potential-successor-ft-reports)
 
-`score 25` · Company moves · 🇬🇧 English · via Let's Data Science
+`score 45` · Company moves · 🇬🇧 English · via SiliconReport
 
-According to investor materials reviewed by The Information and The Wall Street Journal, OpenAI’s third-quarter revenue was approximately US$10 billion, a nearly 50% increase from the previous quarter, and its enterprise business doubled from the previous quarter, accounting for approximately half of its revenue; however, its adjusted operating loss expanded to approximately US$10.9 billion. During the same period, Anthropic's third-quarter operating revenue was reported at approximately US$17 billion.
+According to the British "Financial Times" report, Nvidia's board of directors has contacted Arm CEO Rene Haas about taking over Huang Renxun; the board of directors told Reuters that it has not formally contacted any candidates, saying that relevant speculation is premature. Nvidia currently has CFO Colette Kress as interim CEO, and a new CEO has not yet been appointed.
 
 <details><summary>中文摘要</summary>
 
-据The Information和华尔街日报查阅的投资者材料，OpenAI第三季度营收约100亿美元、环比增长近50%，企业业务环比翻倍、占营收约一半；但经调整营业亏损扩大至约109亿美元。同期Anthropic第三季度营收据报约170亿美元。
+据英国《金融时报》报道，英伟达董事会已就接任黄仁勋一事接触Arm CEO Rene Haas；董事会向路透表示尚未正式接洽任何候选人，称相关猜测为时过早。英伟达目前由CFO Colette Kress任临时CEO，新CEO尚未任命。
 
 </details>
 
 ---
 
-### [Anthropic Opens Australian Retail IPO Ahead of Nasdaq Listing](https://aiweekly.co/alerts/anthropic-opens-australian-retail-ipo-ahead-of-nasdaq-listing)
+### [Nonprofits bring unfair competition claims against Anthropic, Google, Meta, OpenAI and SpaceX Super Intelligence](https://www.mlex.com/mlex/articles/2549481)
 
-`score 25` · Company moves · 🇬🇧 English · via AI Weekly
+`score 30` · Policy & safety · 🇬🇧 English · via MLex
 
-According to CNBC, Anthropic opened Nasdaq IPO subscriptions to Australian retail investors, priced at US$70-78 per share, code ANT. The subscription window closed at 5 pm on November 17 (Australian Eastern Time), with CommSec, Macquarie and many other securities firms participating; the IPO scale reached a maximum of approximately US$64.4 billion, and another US$26 billion in private placements. This report is from a secondary source, and CNBC’s original text cannot be directly verified.
+MLex reported that several non-profit organizations filed lawsuits against Anthropic, Google, Meta, OpenAI and SpaceX Super Intelligence in the San Francisco Superior Court based on California’s unfair competition law. The progress of the case is to be followed.
 
 <details><summary>中文摘要</summary>
 
-据CNBC转述，Anthropic向澳大利亚散户开放纳斯达克IPO认购，定价每股70-78美元、代码ANT，认购窗口于11月17日下午5点（澳东部时间）截止，CommSec、Macquarie等多家券商参与；IPO规模最高约644亿美元，另有260亿美元私募。该报道为二手来源，未能直接核实CNBC原文。
+MLex报道称，多家非营利组织在旧金山高等法院依据加州不正当竞争法，对Anthropic、谷歌、Meta、OpenAI和SpaceX Super Intelligence提出诉讼主张，案件进展待跟踪。
 
 </details>
 
@@ -90,6 +90,7 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 
 ## Archive (last 30 days)
 
+- [2026-11-17](archive/2026-11-17.md)
 - [2026-11-16](archive/2026-11-16.md)
 - [2026-11-15](archive/2026-11-15.md)
 - [2026-11-14](archive/2026-11-14.md)
@@ -119,7 +120,6 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 - [2026-10-21](archive/2026-10-21.md)
 - [2026-10-20](archive/2026-10-20.md)
 - [2026-10-19](archive/2026-10-19.md)
-- [2026-10-18](archive/2026-10-18.md)
 
 Full list in [`archive/`](archive/).
 
