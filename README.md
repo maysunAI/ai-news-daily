@@ -15,61 +15,33 @@ _（中文说明：每天自动整理 AI 领域的最新发展，每条附一手
 
 ---
 
-## Latest (2026-11-17)
+## Latest (2026-11-18)
 
-> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-11-17T23:00:48.366Z. 4 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
+> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-11-18T23:01:03.278Z. 2 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
 
-### ⭐ [llama.cpp Ships v1.0.0 With Semantic Versioning for API Breaks](https://letsdatascience.com/news/llamacpp-ships-v100-with-semantic-versioning-for-api-breaks-b200de7e)
+### ⭐ [NVIDIA Announces Financial Results for Third Quarter Fiscal 2027](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027)
 
-`score 60` · Open-source projects · 🇬🇧 English · via Lets Data Science
+`score 75` · Company moves · 🇬🇧 English · via NVIDIA Newsroom
 
-The local inference frameworks llama.cpp and ggml released their first stable version v1.0.0 on November 13, introducing semantic version numbers for libllama and libggml, removing a number of deprecated public APIs, adding FP8 KV cache and TTS service endpoints, and supporting new models such as Kimi-K3.1. Applications that rely on its interfaces may require adaptation when upgrading.
+Nvidia announced its third quarter financial report for fiscal year 2027 on November 17: revenue was US$115.8 billion, a year-on-year increase of 103%, and data center business was approximately US$107.6 billion; fourth quarter revenue guidance is US$130 billion (±3%), and it is assumed that China's data center computing power revenue is zero. This is the first financial report since Huang Renxun resigned as CEO and CFO Kress became interim CEO, and it occurred in the context of the Megaspeed export investigation and congressional briefings.
 
 <details><summary>中文摘要</summary>
 
-本地推理框架llama.cpp与ggml于11月13日发布首个稳定版v1.0.0，为libllama和libggml引入语义化版本号，并移除一批已弃用的公共API，同时新增FP8 KV缓存与TTS服务端点、支持Kimi-K3.1等新模型。依赖其接口的应用升级时可能需要适配。
+英伟达于11月17日公布2027财年第三季度财报：营收1158亿美元，同比增长103%，数据中心业务约1076亿美元；第四季度营收指引为1300亿美元（±3%），且假设中国数据中心算力收入为零。这是黄仁勋辞任CEO、CFO Kress出任临时CEO后的首份财报，且发生在Megaspeed出口调查与国会简报的背景下。
 
 </details>
 
 ---
 
-### [Ramp AI Index: New Fronts in the AI Trade](https://ramp.com/data/ai-index-nov-2026)
+### [AI news for Monday, November 16, 2026 (Embodied AI AIR humanoid shown at Humanoid Europe, Munich)](https://aiweekly.co/ai-news-today/edition/2026-11-16)
 
-`score 55` · Company moves · 🇬🇧 English · via Ramp
+`score 30` · Model & product releases · 🇬🇧 English · via AI Weekly
 
-Ramp’s November AI Index (covering October data) shows that the growth rate of AI token spending by US companies has slowed down significantly: OpenAI increased by 2.1% month-on-month, and Anthropic only increased by 0.5%, with almost no growth for two consecutive months; the previous median per capita monthly AI spending in September was US$15.70. This data only covers paying U.S. businesses using Ramp.
-
-<details><summary>中文摘要</summary>
-
-Ramp 11月AI指数（覆盖10月数据）显示美国企业AI token支出增速明显放缓：OpenAI环比增长2.1%、Anthropic仅0.5%，连续两个月几乎无增长；此前9月人均AI月支出中位数为15.70美元。该数据仅覆盖使用Ramp的付费美国企业。
-
-</details>
-
----
-
-### [Nvidia approaches Arm CEO Rene Haas as potential successor to Jensen Huang, FT reports](https://www.siliconreport.com/nvidia-approaches-arm-ceo-haas-as-potential-successor-ft-reports)
-
-`score 45` · Company moves · 🇬🇧 English · via SiliconReport
-
-According to the British "Financial Times" report, Nvidia's board of directors has contacted Arm CEO Rene Haas about taking over Huang Renxun; the board of directors told Reuters that it has not formally contacted any candidates, saying that relevant speculation is premature. Nvidia currently has CFO Colette Kress as interim CEO, and a new CEO has not yet been appointed.
+The November 16 edition of AI Weekly reported that Embodied AI’s AIR humanoid robot was unveiled at the Humanoid Europe exhibition in Munich; during the same period, the financial director of Pony.ai told TechCrunch that Chinese autonomous driving companies have prepared backup solutions for non-Nvidia chips for many years.
 
 <details><summary>中文摘要</summary>
 
-据英国《金融时报》报道，英伟达董事会已就接任黄仁勋一事接触Arm CEO Rene Haas；董事会向路透表示尚未正式接洽任何候选人，称相关猜测为时过早。英伟达目前由CFO Colette Kress任临时CEO，新CEO尚未任命。
-
-</details>
-
----
-
-### [Nonprofits bring unfair competition claims against Anthropic, Google, Meta, OpenAI and SpaceX Super Intelligence](https://www.mlex.com/mlex/articles/2549481)
-
-`score 30` · Policy & safety · 🇬🇧 English · via MLex
-
-MLex reported that several non-profit organizations filed lawsuits against Anthropic, Google, Meta, OpenAI and SpaceX Super Intelligence in the San Francisco Superior Court based on California’s unfair competition law. The progress of the case is to be followed.
-
-<details><summary>中文摘要</summary>
-
-MLex报道称，多家非营利组织在旧金山高等法院依据加州不正当竞争法，对Anthropic、谷歌、Meta、OpenAI和SpaceX Super Intelligence提出诉讼主张，案件进展待跟踪。
+AI Weekly 11月16日版报道Embodied AI的AIR人形机器人在慕尼黑Humanoid Europe展会亮相；同期Pony.ai财务负责人对TechCrunch表示中国自动驾驶企业多年来已准备好非英伟达芯片的备份方案。
 
 </details>
 
@@ -90,6 +62,7 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 
 ## Archive (last 30 days)
 
+- [2026-11-18](archive/2026-11-18.md)
 - [2026-11-17](archive/2026-11-17.md)
 - [2026-11-16](archive/2026-11-16.md)
 - [2026-11-15](archive/2026-11-15.md)
@@ -119,7 +92,6 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 - [2026-10-22](archive/2026-10-22.md)
 - [2026-10-21](archive/2026-10-21.md)
 - [2026-10-20](archive/2026-10-20.md)
-- [2026-10-19](archive/2026-10-19.md)
 
 Full list in [`archive/`](archive/).
 
