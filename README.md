@@ -15,7 +15,7 @@ _（中文说明：每天自动整理 AI 领域的最新发展，每条附一手
 
 ---
 
-## Latest (2026-11-21)
+## Latest (2026-11-22)
 
 > Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-11-21T23:01:08.124Z. 4 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
 
@@ -90,6 +90,7 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 
 ## Archive (last 30 days)
 
+- [2026-11-22](archive/2026-11-22.md)
 - [2026-11-21](archive/2026-11-21.md)
 - [2026-11-20](archive/2026-11-20.md)
 - [2026-11-19](archive/2026-11-19.md)
@@ -119,7 +120,6 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 - [2026-10-26](archive/2026-10-26.md)
 - [2026-10-25](archive/2026-10-25.md)
 - [2026-10-24](archive/2026-10-24.md)
-- [2026-10-23](archive/2026-10-23.md)
 
 Full list in [`archive/`](archive/).
 
