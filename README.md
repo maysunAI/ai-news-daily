@@ -15,61 +15,33 @@ _（中文说明：每天自动整理 AI 领域的最新发展，每条附一手
 
 ---
 
-## Latest (2026-11-22)
+## Latest (2026-11-23)
 
-> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-11-21T23:01:08.124Z. 4 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
+> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-11-23T23:01:07.861Z. 2 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
 
-### ⭐ [US curbs China's remote access to AI chips through overseas data centres](https://thenextweb.com/news/us-remote-access-ai-chips-rule-china-singapore-malaysia)
+### [Google makes Gemini Tasks free in six countries](https://www.androidcentral.com/apps-software/ai/google-just-made-its-best-gemini-agent-free-heres-where-you-can-get-it)
 
-`score 70` · Policy & safety · 🇬🇧 English · via The Next Web
+`score 55` · Model & product releases · 🇬🇧 English · via Android Central
 
-The U.S. Department of Commerce BIS issued interim final rules on November 16: Licenses are required for the export of advanced AI chips to overseas data centers that provide more than 12 million TPP computing power to companies in D:5 countries such as China, and licenses are required for the export of advanced chips from Indonesia, Malaysia, Singapore, Thailand, and Brazil, which are intended to plug China's loopholes in accessing restricted chips through overseas clouds.
+Google has opened the Gemini task agent (Tasks, formerly Spark), which originally required paid subscriptions, to free users in the United States, Japan, South Korea, Canada, Australia, and India, and can continue to perform tasks in the background; advanced functions such as making phone calls, sending text messages, and Google Pay checkout are limited to the United States. Purchase the Agent Payments Protocol and set a spending limit.
 
 <details><summary>中文摘要</summary>
 
-美国商务部BIS于11月16日发布临时final规则：向为中国等D:5国家企业提供超过1200万TPP算力的海外数据中心出口先进AI芯片需许可，并对印尼、马来西亚、新加坡、泰国、巴西的先进芯片出口要求许可，意在堵住中国通过海外云访问受限芯片的漏洞。
+谷歌把原本需付费订阅的 Gemini 任务代理（Tasks，前身 Spark）向美国、日本、韩国、加拿大、澳大利亚、印度的免费用户开放，可在后台持续执行任务；打电话、发短信、Google Pay 结账等高级功能先限美国，购买走 Agent Payments Protocol 并设支出上限。
 
 </details>
 
 ---
 
-### ⭐ [Anthropic begins trading in the biggest IPO on record despite the many fears surrounding AI](https://www.itv.com/news/2026-11-19/anthropic-begins-trading-in-the-biggest-ipo-on-record)
+### [Amazon Reportedly in Talks to Buy Decart AI for Around $7B](https://www.techrepublic.com/article/news-amazon-decart-ai-acquisition-talks/)
 
-`score 60` · Company moves · 🇬🇧 English · via ITV News
+`score 40` · Company moves · 🇬🇧 English · via TechRepublic
 
-Anthropic was listed on Nasdaq under the symbol ANT on November 19, with an issue price of US$83 and raising approximately US$81.3 billion, making it the largest IPO in history. It opened at US$111.5 and closed at US$97.17 on the first day, an increase of approximately 17% from the issue price. The overall market weakened that day.
-
-<details><summary>中文摘要</summary>
-
-Anthropic于11月19日在纳斯达克以代码ANT挂牌，发行价83美元、募资约813亿美元，为史上最大IPO；开盘111.5美元，首日收于97.17美元，较发行价上涨约17%，当天大盘整体走弱。
-
-</details>
-
----
-
-### [Nvidia stops shipping US-approved AI chips to China](https://www.timeslive.co.za/news/sci-tech/2026-11-18-nvidia-stops-shipping-us-approved-ai-chips-to-china/)
-
-`score 45` · Company moves · 🇬🇧 English · via TimesLIVE (Reuters)
-
-Nvidia's interim CEO Kress said on the earnings call that the company has stopped shipping U.S.-licensed H200 chips to China. Last quarter, this business had sales of US$2.4 billion. The Q4 guidance does not include Chinese data center computing power revenue; this move coincides with the introduction of new overseas data center chip restrictions in the United States.
+According to informed sources reported by the Wall Street Journal and Israeli media, Amazon is negotiating to acquire Israeli AI startup Decart for more than $7 billion (including performance bets, the total may be nearly $7.5 billion). Decart was valued at approximately $4 billion in May; neither Amazon nor Decart has officially announced the transaction, and Decart software may be used to improve the load efficiency of Trainium chips.
 
 <details><summary>中文摘要</summary>
 
-英伟达临时CEO Kress在财报电话会上称公司已停止向中国发运获美国许可的H200芯片，上季度该业务销售额24亿美元，Q4指引不含中国数据中心算力收入；此举与美国新出台的海外数据中心芯片限制规则同期。
-
-</details>
-
----
-
-### [[经济] Market Outlook November 19, 2026: USD/JPY Rises to 159.80 and May Test 160](https://www.mql5.com/en/blogs/post/781323)
-
-`score 25` · Company moves · 🇬🇧 English · via MQL5 Blogs
-
-On November 19, the U.S. dollar rose to 159.80 against the Japanese yen, approaching the 160 mark. The yield on the 10-year U.S. Treasury bond was higher than 5%. The market paid attention to Nvidia's financial report and Anthropic's listing; this is only market facts, not buying and selling advice.
-
-<details><summary>中文摘要</summary>
-
-11月19日美元兑日元升至159.80、逼近160关口，美国10年期国债收益率高于5%，市场关注英伟达财报与Anthropic上市；仅为行情事实，非买卖建议。
+据华尔街日报及以色列媒体转述知情人士，亚马逊正洽购以色列 AI 初创公司 Decart，价格超过70亿美元（含业绩对赌，总额或近75亿），Decart 5月估值约40亿美元；亚马逊与 Decart 均未官宣交易，Decart 软件可能用于提升 Trainium 芯片负载效率。
 
 </details>
 
@@ -90,6 +62,7 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 
 ## Archive (last 30 days)
 
+- [2026-11-23](archive/2026-11-23.md)
 - [2026-11-22](archive/2026-11-22.md)
 - [2026-11-21](archive/2026-11-21.md)
 - [2026-11-20](archive/2026-11-20.md)
@@ -119,7 +92,6 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 - [2026-10-27](archive/2026-10-27.md)
 - [2026-10-26](archive/2026-10-26.md)
 - [2026-10-25](archive/2026-10-25.md)
-- [2026-10-24](archive/2026-10-24.md)
 
 Full list in [`archive/`](archive/).
 
