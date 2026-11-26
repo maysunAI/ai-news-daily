@@ -15,187 +15,117 @@ _（中文说明：每天自动整理 AI 领域的最新发展，每条附一手
 
 ---
 
-## Latest (2026-11-25)
+## Latest (2026-11-26)
 
-> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-11-25T23:01:32.292Z. 13 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
+> Auto-compiled daily by [PJ09](https://ainews.maysuns.uk/) via web search + a custom score. Batch time 2026-11-26T23:01:40.533Z. 8 item(s). English is machine-translated from the Chinese summary; the original Chinese is in each item's collapsible block.
 
-### ⭐ [NVIDIA Form 8-K: Jensen Huang reinstated as President and CEO and board member](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm)
+### ⭐ [Google DeepMind: Introducing AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
 
-`score 75` · Company moves · 🇬🇧 English · via SEC EDGAR (NVIDIA 8-K)
+`score 70` · Research & papers · 🇬🇧 English · via Google DeepMind
 
-Nvidia submitted an 8-K document on November 23, stating that Huang Renxun will resume his duties as president, CEO and director with immediate effect. The board of directors unanimously approved it and thanked Colette Kress for serving as interim CEO; the board of directors had previously stated on November 17 that it had no intention of reinstating him. This excerpt from the document is incomplete and the full text is required for details.
+DeepMind introduces the AlphaProof Code framework: a human-guided AI agent verifies key security properties of code related to the Signal encryption protocol with machine-verifiable proofs; the proofs do not cover all components of the Signal application.
 
 <details><summary>中文摘要</summary>
 
-英伟达11月23日提交8-K文件称，黄仁勋即日起复任总裁兼CEO及董事，董事会一致通过，并感谢Colette Kress担任临时CEO；此前11月17日董事会曾表示无意让其复职。该文件摘录不完整，细节需以全文为准。
+DeepMind 介绍 AlphaProof Code 框架：由人类引导的 AI 智能体用机器可检验的证明，验证 Signal 加密协议相关代码的关键安全属性；证明并未覆盖 Signal 应用的全部组件。
 
 </details>
 
 ---
 
-### ⭐ [US Commerce Dept blacklists Megaspeed, linked to Nvidia/Huang controversy](https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list)
+### ⭐ [Feds approve SpaceX's AI data center satellites, all 1 million of them](https://gizmodo.com/feds-approve-spacexs-ai-data-center-satellites-all-1-million-of-them-2000845526)
 
-`score 70` · Policy & safety · 🇬🇧 English · via The Verge
+`score 60` · Company moves · 🇬🇧 English · via Gizmodo
 
-The U.S. Department of Commerce has added Megaspeed to the Entity List. The company is related to Huang Renxun's resignation; Congress is still asking Huang Renxun about chip export controls.
+The FCC approved SpaceX's deployment of up to one million satellites for an orbiting computing network called Starmind; the approval was only for potential networks and not deployed systems, and scientists raised questions about heat dissipation, economics and engineering feasibility.
 
 <details><summary>中文摘要</summary>
 
-美国商务部把Megaspeed列入实体清单，该公司与黄仁勋离任风波相关；国会仍就芯片出口管制向黄仁勋问询。
+FCC 批准 SpaceX 为名为 Starmind 的轨道算力网络部署最多一百万颗卫星；批准只针对潜在网络而非已部署系统，科学家对散热、经济性和工程可行性提出质疑。
 
 </details>
 
 ---
 
-### ⭐ [OpenAI: GPT-6 models demonstrate intrinsic protein design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/)
+### [Anthropic: Migrating the Messages API to Rust with Claude agents](https://www.anthropic.com/research/migrating-api-to-rust)
 
-`score 60` · Research & papers · 🇬🇧 English · via OpenAI
+`score 55` · Research & papers · 🇬🇧 English · via Anthropic
 
-OpenAI said that GPT-6 designs protein sequences and predicts structures through reasoning and coding. Laboratory tests found that the designed protein showed signs of binding to five targets.
+Anthropic disclosed that it used the Claude agent to compare the real-time request differences between Python and Rust implementations, and then manually reviewed and repaired them. It migrated the Messages API to Rust, saying that the single request CPU usage was reduced by about 70%, and the first token median time was shortened by about 20%.
 
 <details><summary>中文摘要</summary>
 
-OpenAI称GPT-6通过推理与代码设计蛋白质序列并预测结构，实验室测试发现其设计的蛋白对五个靶点有结合迹象。
+Anthropic 披露用 Claude 智能体对照 Python 与 Rust 实现的实时请求差异、再由人工审核修复，把 Messages API 迁移到 Rust，称单请求 CPU 占用降低约 70%，首 token 中位时间缩短约 20%。
 
 </details>
 
 ---
 
-### ⭐ [Anthropic makes Claude artifacts installable as desktop apps on Mac and Windows](https://x.com/ClaudeDevs/status/2125315491522650299)
+### [New US export rules threaten Asian AI buildout](https://www.semafor.com/article/11/25/2026/new-us-export-rules-threaten-asian-ai-buildout)
 
-`score 60` · Model & product releases · 🇬🇧 English · via Anthropic (ClaudeDevs)
+`score 55` · Policy & safety · 🇬🇧 English · via Semafor
 
-Claude's artifact can now be installed as a Mac/Windows desktop application, supporting connected services, optional notifications, and menu bar integration.
+According to reports, after the introduction of the new chip export licensing rules in the United States, lending institutions suspended billions of dollars in financing related to AI infrastructure in Asia (including involving Chinese cloud manufacturers), and the construction of data centers in Southeast Asia was affected.
 
 <details><summary>中文摘要</summary>
 
-Claude的artifact现可安装为Mac/Windows桌面应用，支持连接服务、可选通知和菜单栏集成。
+据报道，美国新的芯片出口许可规则出台后，贷款机构暂停了与亚洲（含涉及中国云厂商）AI 基建相关的数十亿美元融资，东南亚数据中心建设受到冲击。
 
 </details>
 
 ---
 
-### ⭐ [UK FCA sets out expectations for agentic AI](https://www.fca.org.uk/firms/innovation/ai-approach/agentic-ai)
-
-`score 60` · Policy & safety · 🇬🇧 English · via FCA
-
-The UK Financial Conduct Authority has released regulatory expectations for companies and platforms that develop or deploy autonomous AI products.
-
-<details><summary>中文摘要</summary>
-
-英国金融行为监管局发布针对开发或部署自主AI产品的公司与平台的监管预期。
-
-</details>
-
----
-
-### [PrismML releases Ternary Bonsai 2.5 27B compact model](https://prismml.com/news/bonsai-2-5-27b)
-
-`score 55` · Open-source projects · 🇬🇧 English · via PrismML
-
-PrismML releases the compact model Ternary Bonsai 2.5 27B, with a volume of about 5.9GB, which improves coding, repeated tool calls and multi-step task capabilities.
-
-<details><summary>中文摘要</summary>
-
-PrismML发布紧凑模型Ternary Bonsai 2.5 27B，体积约5.9GB，编码、重复工具调用和多步任务能力提升。
-
-</details>
-
----
-
-### [Anthropic shares plunge as AI trade wobbles](https://www.semafor.com/article/11/24/2026/anthropic-shares-plunge-as-ai-trade-wobbles)
-
-`score 50` · Company moves · 🇬🇧 English · via Semafor
-
-Anthropic's stock price fell sharply on Tuesday, and the market's concerns about the AI ​​sector resurfaced (it only states price reactions and does not constitute investment advice).
-
-<details><summary>中文摘要</summary>
-
-Anthropic股价周二大跌，市场对AI板块的担忧再度浮现（仅陈述价格反应，不构成投资建议）。
-
-</details>
-
----
-
-### [Anthropic announces Skills over MCP and Tasks on MCP's second anniversary](https://x.com/ClaudeDevs/status/2125289794871963935)
-
-`score 50` · Protocols & interoperability · 🇬🇧 English · via Anthropic (ClaudeDevs)
-
-Anthropic announced Skills over MCP and Tasks on the second anniversary of MCP, extending the protocol to multi-agent collaboration.
-
-<details><summary>中文摘要</summary>
-
-Anthropic在MCP两周年之际宣布Skills over MCP与Tasks，协议向多智能体协作方向扩展。
-
-</details>
-
----
-
-### [Axios: Over two dozen sources describe safety concerns at OpenAI and Anthropic over unreleased models](https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks)
-
-`score 45` · Policy & safety · 🇬🇧 English · via Axios
-
-Axios said that after interviewing more than 20 sources, there are employees within OpenAI and Anthropic who are concerned about whether some advanced models that have not yet been released can be safely released.
-
-<details><summary>中文摘要</summary>
-
-Axios称采访了二十多位消息人士，OpenAI与Anthropic内部有员工担心部分尚未发布的先进模型能否安全发布。
-
-</details>
-
----
-
-### [Meta brings its Muse AI assistant directly into Instagram DMs](https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/)
+### [OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/)
 
 `score 45` · Model & product releases · 🇬🇧 English · via TechCrunch
 
-Meta integrated the Muse assistant into Instagram direct messages and cooperated with Walmart to provide Black Friday discounts through Muse.
+OpenAI is testing on a small scale to merge Chat and Work of ChatGPT into a unified interface and share the usage quota. Heavy users who use both at the same time may use up the quota faster, and the real-time model can still be used. It plans to expand the push in December.
 
 <details><summary>中文摘要</summary>
 
-Meta把Muse助手接入Instagram私信，并与沃尔玛合作通过Muse提供黑五优惠。
+OpenAI 正在小范围测试把 ChatGPT 的 Chat 与 Work 合并为统一界面并共用使用额度，同时使用两者的重度用户可能更快用完额度，即时模型仍可继续使用，计划 12 月扩大推送。
 
 </details>
 
 ---
 
-### [Amazon says open-source AI agent mostly autonomously exploited a zero-day](https://gizmodo.com/amazon-says-open-source-ai-agent-mostly-autonomously-exploited-a-zero-day-2000844891)
+### [Ant releases Ling-3.2-air multimodal model under MIT license](https://technode.com/2026/11/25/ant-releases-ling-3-2-air-multimodal-model-under-mit-license/)
 
-`score 40` · Policy & safety · 🇬🇧 English · via Gizmodo
+`score 40` · Open-source projects · 🇬🇧 English · via TechNode
 
-Amazon said it detected an open source AI agent that exploited a previously unknown vulnerability with minimal human intervention, highlighting the risk of the agent accelerating attacks.
+Ant Group’s open source multi-modal model Ling-3.2-air (text, image, video) is licensed under the MIT license and has open weights; its office automation test task completion rate is 61%, higher than Ling-3.0-flash-VL’s 15.7%.
 
 <details><summary>中文摘要</summary>
 
-亚马逊称检测到一个开源AI智能体在极少人工干预下利用了此前未知的漏洞，凸显智能体加速攻击的风险。
+蚂蚁集团开源多模态模型 Ling-3.2-air（文本、图像、视频），采用 MIT 许可并开放权重；其办公自动化测试任务完成率为 61%，高于 Ling-3.0-flash-VL 的 15.7%。
 
 </details>
 
 ---
 
-### [Tidal to ban and remove millions of AI-generated tracks](https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/)
+### [Anthropic's Dario Amodei calls accusations of surrendering human control to AI 'absurd'](https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/)
 
-`score 40` · Company moves · 🇬🇧 English · via TechCrunch
+`score 40` · Opinion & commentary · 🇬🇧 English · via TechCrunch
 
-Streaming platform Tidal plans to remove millions of tracks entirely generated by AI, but will still accept AI-assisted music creation.
+Anthropic CEO Dario Amodei has publicly refuted accusations that it is "giving control of humans to AI," calling the claims ridiculous and questioning Axios' coverage of the same topic.
 
 <details><summary>中文摘要</summary>
 
-流媒体平台Tidal计划移除数百万首完全由AI生成的曲目，但仍接受AI辅助创作的音乐。
+Anthropic CEO Dario Amodei 公开驳斥关于其“把人类控制权交给 AI”的指责，称这些说法荒谬，并质疑 Axios 对同一话题的报道。
 
 </details>
 
 ---
 
-### [Former OpenAI employee charged with planting a bug in conference room, released on $1M bond](https://www.bloomberg.com/news/articles/2026-11-24/openai-staffer-charged-with-planting-bug-released-on-bond)
+### [Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store](https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/)
 
-`score 25` · Company moves · 🇬🇧 English · via Bloomberg
+`score 25` · Company moves · 🇬🇧 English · via The Decoder
 
-A former OpenAI employee was released on $1 million bail after being accused of installing listening devices in company conference rooms.
+According to reports, Amazon has blocked Meta’s shopping intelligence Muse since September. The two parties are negotiating to lift restrictions. Disagreements such as advertising revenue and search result control have not yet been resolved, and no agreement has been announced yet.
 
 <details><summary>中文摘要</summary>
 
-一名前OpenAI员工因被控在公司会议室安装监听设备，以100万美元保释获释。
+据报道，亚马逊 9 月起屏蔽了 Meta 的购物智能体 Muse，双方正就解除限制谈判，广告收入与搜索结果控制权等分歧尚未解决，目前未宣布达成协议。
 
 </details>
 
@@ -216,6 +146,7 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 
 ## Archive (last 30 days)
 
+- [2026-11-26](archive/2026-11-26.md)
 - [2026-11-25](archive/2026-11-25.md)
 - [2026-11-24](archive/2026-11-24.md)
 - [2026-11-23](archive/2026-11-23.md)
@@ -245,7 +176,6 @@ Capped at 100 per item; **≥60 is flagged ⭐**. Full rationale (journalism's p
 - [2026-10-30](archive/2026-10-30.md)
 - [2026-10-29](archive/2026-10-29.md)
 - [2026-10-28](archive/2026-10-28.md)
-- [2026-10-27](archive/2026-10-27.md)
 
 Full list in [`archive/`](archive/).
 
